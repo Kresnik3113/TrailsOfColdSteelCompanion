@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".VideoActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#9F9999"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/prologueBossTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="All prologue boss fights"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="I5M2lWYbfgI">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+
+        <TextView
+            android:id="@+id/chap1BossTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="All chapter 1 boss fights"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="MLAkSP1AZ8I">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+
+        <TextView
+            android:id="@+id/chap2BossTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="All chapter 2 boss fights"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="dJD3NKRIqZ4">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+    </LinearLayout>
+
+    </ScrollView>
+
+

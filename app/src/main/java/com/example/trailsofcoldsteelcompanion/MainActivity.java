@@ -13,9 +13,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        getSupportActionBar().setTitle("Cold steel companion");
         final Button button1 = findViewById(R.id.walkBtn);
         final Button button2 = findViewById(R.id.codexBtn);
+        final Button button3 = findViewById(R.id.bossBtn);
         button1.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Intent i = new Intent(getApplicationContext(),WalkthroughActivity.class);
@@ -27,6 +28,14 @@ public class MainActivity extends AppCompatActivity {
         button2.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Intent i = new Intent(getApplicationContext(),CodexActivity.class);
+                startActivity(i);
+
+            }
+        });
+
+        button3.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(),VideoActivity.class);
                 startActivity(i);
 
             }

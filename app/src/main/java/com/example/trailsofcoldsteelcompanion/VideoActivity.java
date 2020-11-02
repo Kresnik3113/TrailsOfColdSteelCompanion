@@ -4,12 +4,12 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class WalkthroughActivity extends AppCompatActivity {
+public class VideoActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_walkthrough);
-        getSupportActionBar().setTitle("Walkthrough");
+        setContentView(R.layout.activity_video);
+        getSupportActionBar().setTitle("Boss videos");
     }
 }

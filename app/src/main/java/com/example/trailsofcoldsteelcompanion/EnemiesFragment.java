@@ -7,6 +7,12 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ExpandableListView;
+import android.widget.ListView;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -23,7 +29,7 @@ public class EnemiesFragment extends Fragment {
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
-
+    ListView eList;
     public EnemiesFragment() {
         // Required empty public constructor
     }
@@ -43,6 +49,7 @@ public class EnemiesFragment extends Fragment {
         args.putString(ARG_PARAM1, param1);
         args.putString(ARG_PARAM2, param2);
         fragment.setArguments(args);
+
         return fragment;
     }
 
@@ -53,12 +60,39 @@ public class EnemiesFragment extends Fragment {
             mParam1 = getArguments().getString(ARG_PARAM1);
             mParam2 = getArguments().getString(ARG_PARAM2);
         }
+
+
+
+
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
+
         return inflater.inflate(R.layout.fragment_enemies, container, false);
+
+    }
+
+    public void onViewCreated (View view,
+                               Bundle savedInstanceState){
+        ExpandableListView expandableListView=(ExpandableListView)getView().findViewById(R.id.expandableListView);
+        HashMap<String, List<String>> item=new HashMap<>();
+
+        ArrayList<String> enemyGroups=new ArrayList<>();
+        enemyGroups.add("Slime");
+        enemyGroups.add("Demon");
+        enemyGroups.add("Soldier");
+        enemyGroups.add("Elite Soldier");
+        enemyGroups.add("General");
+        enemyGroups.add("Demon");
+        enemyGroups.add("Corrupted");
+        enemyGroups.add("Wolf");
+        enemyGroups.add("Legion");
+
+        item.put("Enemy",enemyGroups);
+        MyExpandableListAdapter adapter=new MyExpandableListAdapter(item);
+        expandableListView.setAdapter(adapter);
     }
 }

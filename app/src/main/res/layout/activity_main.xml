@@ -4,24 +4,27 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#9F9999"
     tools:context=".MainActivity">
 
     <Button
         android:id="@+id/walkBtn"
-        android:layout_width="246dp"
+        android:layout_width="409dp"
         android:layout_height="81dp"
+        android:background="#B83E3E"
         android:text="Walkthrough"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.255" />
+        app:layout_constraintVertical_bias="0.24" />
 
     <Button
         android:id="@+id/codexBtn"
-        android:layout_width="246dp"
+        android:layout_width="409dp"
         android:layout_height="81dp"
+        android:background="#B83E3E"
         android:text="Codex"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -32,13 +35,13 @@
 
     <Button
         android:id="@+id/bossBtn"
-        android:layout_width="246dp"
+        android:layout_width="409dp"
         android:layout_height="81dp"
+        android:background="#B83E3E"
         android:text="Boss Fight Videos"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.581" />
+        app:layout_constraintVertical_bias="0.598" />
 </androidx.constraintlayout.widget.ConstraintLayout>
