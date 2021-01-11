@@ -1,93 +1,1063 @@
 <resources>
     <string name="app_name">TrailsOfColdSteelCompanion</string>
     <string name="prologue">
-        "Material is the metaphor.\n\n"
+        Head forward to go to next area, you will encounter a group of drones. This will be your first battle, and all your characters are at level 49. Your party members are very strong at this point, so you don\'t really need to worry about losing. If your HP drops very low, you can heal yourself with items or from healing abilities. It is highly recommended you avoid all battles at this moment, as you don\'t get to keep anything from here. When you reach near the exit to the next area, you can use the Orbment Charging Station to fully recover your party. After you are done, exit and you will face two robots which will be the first boss of the game.
+"This is your first boss of the game, both robots have a ton of HP. A quick way of depleting the boss's HP is to use your S-Break by pressing the Triangle button. The robots can hit really hard with it's laser attack. If any of your party member is K.O., you can use Emma's Serene Blessing to revived them, or a Reviving Balm item."
+    </string>
+    <string name="prologue1">
+        You will gain control over the protagonist, Rean. You can speak to the town NPC and see certain events by checking and visiting other places first. A lot of the charm from playing a Legend of Heroes game is that NPC dialogue will change depending on when you talk to them. If you are ever lost in the game, pressing the Square button will open the navigation menu, which will tell you the next objective. Now go to the north exit to Thors Military Academy, watch the orientation event.
+    </string>
+    <string name="prologue2">
+"        When you have control over Rean again, go and examine your weapon on the left. You will receive a Master Quartz along with your weapon. Open the menu and equip the Master Quartz in the Orbment menu. Afterwards there will be some arguments between the rest of the class, when everyone is finished talking, only Eliot and Gaius will join your party.
+        As you leave, you will see a monster, if you mange to sneak up on it and striking it by using the X button, you can gain an additional advantage in combat. Depending on your performance in battle, you can gain bonus exp on your victory. The more times you have fight the monster, more information regarding that monster will be added into your notebook. There is also an ability and an item (Battle Scope) that allows you to unlock all this information at once. If you are planning getting the platinum trophy, you will need to filled the Monster Guidebook completely.
 
-        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
-        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
-        "technologically advanced and open to imagination and magic.\n"
-        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
-        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
-        "flexibility of the material creates new affordances that supercede those in the physical "
-        "world, without breaking the rules of physics.\n"
-        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
-        "interact, and exist in space and in relation to each other. Realistic lighting shows "
-        "seams, divides space, and indicates moving parts.\n\n"
+Get the Needle Shot Quartz located in the treasure chest to your north. If you forgot the treasure chest, Eliot will remind that there is an object right there. As you head downstairs, you will encounter a Orbment Charging Station, these are used to fully restore your party. As you go a little further, you will encounter a slime-type enemy, these Grass Dromes are weak against Arts attack. You can cast Arts at it, or rely on Eliot to hurt it. As you go further you will find a insect-type monster. There will be a lot in this battle, the best method is to rely on Gaius's Craft ability, Gale Stinger as it has the ability to paralyze. Afterwards, Machias will join your party. From here, keep moving forward, you will eventually meet up with the girls. As you continue further, you will encounter Fie as well, from here you can find a treasure chest containing the Tear Orbment located on the west. Keep moving forward to the east area, you will encounter Jusis fighting some monsters. Afterwards Machias and Jusis will argue, you are given two choices, if you reprimand Jusis, Machias will stay with your party, if you stop Machias, Jusis will join your party. Then take the south exit, to go Underground area 3. From here there is a treasure chest located on the north and south corner. When you have pick up the two treasure chest, take the southeast exit to go the next area. Heal up by using Orbment Charging station, and save your game as well, as there is a boss fight right just ahead.
 
-        "Bold, graphic, intentional.\n\n"
+        The best thing you can do for this boss fight is to use Eliot's Craft ability, this will recover your HP each turn. The boss also carries a lot of area type attacks, it's best for you to have your party member spread out, so they don't all get hit by it's area attack. Arts are highly effective against it's first form due to it's poor magic defense. When you have drop the boss's HP below 50%, it will change form. The second form, is a bit more aggressive and has different stats then the previous form, with stronger magic defense but lower physical defense. Overall if you keep yourself buff up with Eliot's Craft ability, this battle should be a piece of cake."
+    </string>
 
-        "The foundational elements of print based design typography, grids, space, scale, color, "
-        "and use of imagery guide visual treatments. These elements do far more than please the "
-        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
-        "imagery, large scale typography, and intentional white space create a bold and graphic "
-        "interface that immerse the user in the experience.\n"
-        "An emphasis on user actions makes core functionality immediately apparent and provides "
-        "waypoints for the user.\n\n"
 
-        "Motion provides meaning.\n\n"
+    <string name="chapter1">
+       " Watch the introduction scene until Instructor Thomas ask Rean to answer a question. Answer it with the third choice "Nord Highlands" doing so will increase your AP (Academic Points). Earning AP will increase Rean\'s Rank, along with item rewards. Leave the classroom and head outside. Go to the building located on the east, a student will approach towards you and will show you a trick. Either choice is wrong, so it doesn\'t matter which one you pick. Before you enter the Student Union Building, go to the School Library located on the southeast area of the map. Go inside the Library and read the book, "Imperial Railways: A History".
 
-        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
-        "inflection points that initiate motion, transforming the whole design.\n"
-        "All action takes place in a single environment. Objects are presented to the user without "
-        "breaking the continuity of experience even as they transform and reorganize.\n"
-        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
-        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+Note: there is a trophy for collecting all the books in the game, and one of the strongest weapon in the game requires a collection of certain type of book.
 
-        "3D world.\n\n"
+Then go to the Student Union Building, and head to the second floor and examine the room located on the bottom of the map. Select the first option to see an event scene and end the day.
 
-        "The material environment is a 3D space, which means all objects have x, y, and z "
-        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
-        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
-        "position along the z-axis and has a standard 1dp thickness.\n"
-        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
-        "emulated by manipulating the y-axis.\n\n"
+Night time
 
-        "Light and shadow.\n\n"
+You will have the Character Profile section added to the Note section. Depending on when you talk to a certain character, a page will be added to their Character Profile, if you manage to completed the entire Character Profile section, you will get a trophy (It requires two playthroughs minimum due to a shortage of Bonding Points on the first playthrough). Anyway, visit each of Class VII members, speak to them to hand out the student notebook to them. You can always check the map to see who hasn\'t receive their notebook yet. When you are done, return to your room and head to bed.
 
-        "Within the material environment, virtual lights illuminate the scene. Key lights create "
-        "directional shadows, while ambient light creates soft shadows from all angles.\n"
-        "Shadows in the material environment are cast by these two light sources. In Android "
-        "development, shadows occur when light sources are blocked by sheets of material at "
-        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
-        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+April 18 [Noon] [Free Day]
+Read the letters that Rean received from the mail box. In order to accept Side Quest (Task), you need to read the request letter first to accept the task. These quests must be be done in a timely manner, as in within the same day game time. If you advanced through the story without finishing these task, you won't able to do them again. Finishing Side Quest will also earn you AP, which will determine your rank for the chapter.
 
-        "Resting elevation.\n\n"
+Now there three request listed here, the first two are highlighted in Red. These request must be completed in order to advance through the story.
 
-        "All material objects, regardless of size, have a resting elevation, or default elevation "
-        "that does not change. If an object changes elevation, it should return to its resting "
-        "elevation as soon as possible.\n\n"
+Note: There are Hidden Side Quest that won't be listed through these letters.
 
-        "Component elevations.\n\n"
+Now leave the building, you will gain access to the Quick Travel menu by pressing the Square button. As you try to go any further, you will meet a student who will give you a fishing book. From now on, you can fish by examining the deck near the water. You can receive the book, "Red Moon Rose - Chapter 1" by speaking to the bookstore owner, Keynes. Collecting all 14 volumes of the Red Moon Rose series allows you to exchange for the strongest weapon later in the game.
 
-        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
-        "does not vary from 6dp in one app to 16dp in another app).\n"
-        "Components may have different resting elevations across platforms, depending on the depth "
-        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+Quest Name	A Noteworthy Loss
+You can find Colette at the cafeteria of the Student Union Building. Speak to Colette and accept her request.
+Colette's notebook is located at the Main Building 2F. You will find her notebook lying by the couch near the southeast area.
+Client	Colette
+Reward	Silver Chain, 4 AP
 
-        "Responsive elevation and dynamic elevation offsets.\n\n"
+Quest Name	Old Schoolhouse Mystery [Required]
+Head to the School Main Building and go to principal office, the center east room. Speak to Principal Vandyck, he'll give you the key to the Old Schoolhouse. Going inside the Old School House will automatically advance the time of the day to evening. So before you do this quest, make sure you finish everything else first. As you encounter the first monster, you can do Link attacks, first go to the Tactics Menu and assign the members you want to link together. Linking attacks is very effective in battle as it can let you land an extra attack against enemy if the attack type cause an unbalance to the enemy. Now go to the boss room located on the east side of the map."   </string>
 
-        "Some component types have responsive elevation, meaning they change elevation in response "
-        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
-        "changes are consistently implemented using dynamic elevation offsets.\n"
-        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
-        "to the component’s resting state. They ensure that elevation changes are consistent "
-        "across actions and component types. For example, all components that lift on press have "
-        "the same elevation change relative to their resting elevation.\n"
-        "Once the input event is completed or cancelled, the component will return to its resting "
-        "elevation.\n\n"
+    <string name="chapter11" >
+"Boss Minos Demon
+Minos Demon is lot easier then the previous boss. Simply buffed up with Eliot's Resounding Beat and Rean's Motivate. Then strike the boss until it goes down. The boss can use Dark Breath, which can cause blindness. If you miss the boss can take this opportunity to counterattack, so make sure you cure blindness before you attack it.
+After you have defeated the boss, exit the room, the party members will notice the object from earlier is now glowing. Examine it will give you the option to warp back to the entrance. Leave the Old Schoolhouse.
 
-        "Avoiding elevation interference.\n\n"
+Client	Principal Vandyck
+Reward	Seal, 5 AP
 
-        "Components with responsive elevations may encounter other components as they move between "
-        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
-        "through other material, components avoid interfering with one another any number of ways, "
-        "whether on a per component basis or using the entire app layout.\n"
-        "On a component level, components can move or be removed before they cause interference. "
-        "For example, a floating action button (FAB) can disappear or move off screen before a "
-        "user picks up a card, or it can move if a snackbar appears.\n"
-        "On the layout level, design your app layout to minimize opportunities for interference. "
-        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
-        "when a user tries to pick up one of cards.\n\n"
+Quest Name	Orbal Delivery [Required]
+Head to the Academy, Engineer Building, and speak to George who is behind the counter. You will receive three items that needs to be deliver to three different places.
+Orbal Scale: Nicolas (Located at the School EC Room) [Main Building 2F, Southeast room]
+Orbal Lamp: Micht (Located at Micht's Pawn Shop) [East area of Trista]
+Orbal Wristwatch: Lala (Located at Radio Trista) [Southwest area of Trista]
+Once you have delivered all the parcels, go to the Engineering Building and speak to George. Afterwards, George can create new Quartz and upgrade weapons for you.
+
+Client	George
+Reward	Recipe Book, Simple Omelette, Fresh Eggs x3, Blade Deck, Coarse Rock Salt x3, Orbal Radio, 4 AP
+April 18 [Evening] [Free Day]
+Watch the event, you are given one Bonding Point, spend it on who you like best. You can also get a new character profile by speaking to Lotte by the entrance to the Upper Class Dorm. You can give Unique type dishes to her. If you manage to give her 20 different types of Unique Dishes, she will give you a really strong quartz in return. You can also speak to Instructor Thomas and give him Peculiar Dishes, giving him all 20 different types of Peculiar Dishes will get you a powerful quartz as well. There is also an hidden side quest you can do by speaking to Fred at the Cafe.
+
+Quest Name	Story of Seasoning [Hidden]
+Go to Kirsche's Cafe &amp; Inn and speak to Fred by the counter. Select the first choice to help him out. Then go to the Main Building 2F, to the EC Room, which is located on the southeast area. Speak to Nicholas and leave. Then go to the Student Union Building and speak to Ramsay the chef at the kitchen. Then head back to the Cafe and speak to Fred.
+Client	Fred
+Reward	Crispy Pizza x3, Add Page 1 to Nicholas's Character Profile, 4 AP
+When you're finished all side activities, return to Class VII's Dormitory to end Free Time mode.
+
+April 21
+As this day begins, you will be doing your Practical Exam. Gaius and Eliot will join your party, now the game will let you adjust your character setting in the menu screen and also will give you the option to save. Once you're ready exit out of the menu to start the Practical Exam.
+Boss Combat Shell A
+You need to win this battle without having a single party member being K.O., if you fail at doing that, you will miss an AP from winning this battle. Which will prevent you from getting a S Rank for this chapter. Buff yourself up with Rean and Eliot support abilities. Link Rean and Gaius together so that they can perform Link Attacks when attacking. The only thing you need to watch out for is the boss's Art attack, it does roughly around 80% of your party's HP, so make your character is always full health.
+
+April 24 Field Study Day 1
+All of Gaius' Quartz will be removed when you begin. Make all the preparation you need, such as stocking on supplies and fishing. There is also a small event scene near the Radio Station. When you got everything you need, head to Trista Station at the south area of Trista. Speak to the Clerk by the counter and purchase the train tickets.
+
+Speak to all party members. When you talk to Eliot, you can play the Blade Card mini game. Playing this mini game will raise the Link EXP between your opponent (Only the first match counts).
+
+Note: You should always save your game before playing this mini game, sometimes playing Blade, can cause the game to randomly crash.
+Once you are done, select the last option to move on. Watch the event scene, you will then receive a letter that contains your assignments in Celdic. Before you leave, speak to the Margot, the Owner of Weathercock to get the "Sweet Cookie" recipe. You can get the book, "Red Moon Rose - Chapter 2" by speaking to Anita (Southeast corner at the Grand Market). You should purchase the Sitting Mishy from Hofen's Stuffed Toy Stall (One of the shops in Grand Market) this can be used for exchanging something really important for later in the game.
+
+Quest Name	For the Common Cold
+Go to the Celdic Chapel which is located at the east side of town. Speak to Father Zirbel at the center and accept his request. Go to the Grand Market and speak to Flint to received a Bearclaw. Then leave town through the west area. Watch the event scene, head out on the north path, a wolf will be blocking your path, the game will let you know about the S-Break option (A super attack that consumes a 100 to 200 CP). You can then find the farmhouse northeast. Speak to Paul and he will give you the Imperial Carrot. Return to the Chapel and give Father Zirbel the ingredients he requested.
+Flint : Grand Market (Middle Left)
+Paul - Farmhouse on West Celdic Highway 2
+Client	Father Zirbel
+Reward	Teara Balm x3, Celestial Balm x3, 4 AP
+
+Quest Name	Any Bright Ideas [Required]
+Go to Oddvin's Arms &amp; Orbal Factory and speak to Samus by the counter. Leave town through the West Celdic Highway."
+    </string>
+    <string name="chapter111">
+"Head north and go to West Celdic Highway 2. Examine the Road Lamp in the south area of the map. Select the third choice "466515", picking this choice will give you an additional 1 AP. Report back to Samus.
+
+Client	Samus
+Reward	Detection, 4 AP (+1 If selected the correct choice)
+
+Quest Name	East Celdic Highway Monster [Required]
+Leave Celdic through the East highway. Go to the Farm House located on the Southeast. When you're inside speak to Syro. Leave the farmhouse and take the Southeast exit to East Celdic Highway 2. You will find the Quest Monster located at the northwest area.
+        "
+    </string>
+    <string name="chapter1111">
+        "Boss Scary Dinosaur
+        This mini boss will be a cake walk due with Laura in your party. Make sure you characters are buffed up, and just attack it, Laura's Craft skill can deal massive damage to the boss and also weaken it's defense. When the boss is almost dead, it will start to glow red to deal one last resort type attack, defeat it before happens.
+Once you have defeated the monster, go back to the farmhouse and report to Syro. You can also speak to Syro's Wife, Tisel to receive the Whole Juice recipe.
+
+Client	Syro
+Reward	Fresh Eggs x10, Starberry x10, Honey Syrup x10, Coarse Rock Salt x10, 4 AP
+Once you're done with all your side activities, return to the Inn for dinner to end the day.Watch the event scene at the Grand Market. After you finish talking to Otto, leave to see a scene with Sara. You can do another Hidden Side Quest. To do the side quest, go to the Grand Market and speak to Lymon, at the Grand Market.
+
+uest Name	A Day as a Merchant [Hidden]
+Go to Grand Market, and speak to Lymon. His stall is near the entrance. Accept his offer to run the store for him. Then select the following choices.
+35 mira in total *3rd Choice
+900 mira *1st Choice
+Include some cheese for 20% off *2nd Choice
+Sell 6 for 60 Mira *5th Choice
+If you select the choice listed from above, it should grant you an extra 2 AP, making it a total of 5 AP for finishing this quest.
+
+Client	Lymon
+Reward	Coral Bracelet, Marble Bracelet, 3 (+ 1-2) AP
+Once you're done with all your side activities, return to the Inn for dinner to end the day.
+
+April 25 Field Study Day 2
+As soon as you wake up, Margot will hand you over the assignment letters. Read them and then leave the Inn. Head to Grand Market to see an event scene. After you finished talking to Otto, return to the Grand Market again, speak to Merchant Heinz on the center. Then speak to Merchant Marco at the rear area of the Grand Market. Afterwards, answer the question with the third choice "The provincial army", this will increased your AP by 1. Head to the Provincial Army building, and watch the event. Go near the Chapel and speak to the girl sitting by the bench. Then speak to drunk man near West Celdic Highway entrance. You can also pick up the book, "Red Moon Rose - Chapter 3" by speaking to Robin at the West Highway - Farmhouse. Now finish the side quest before you continue on with the main story.
+
+Quest Name	West Celdic Highway Monster
+Go to the Market Manager's House and speak to Otto, select the second choice to hear details about the monster. Leave town by going to the West Celdic Highway, you will find the monster located on the west area. Defeat it and report back to Otto.
+
+ Boss Zwordar
+The only thing you need to watch for out for it's when Zwordar cast it's art. They can do massive damage if your characters are close to each other. You can use Rean's Autumn Leaf Cutter to interrupt Zwordar's casting.
+Client	Market Manager Otto
+Reward	U-Material x5, 4 AP
+
+Quest Name	Lost Wallet
+Head to the Grand Market, and speak to Merchant Lizze (she's the girl with the ponytail near the entrance). Accept the request. Go to the Train Station to see an event. Then head to the Weathercock Inn and speak to Margot. Head back to the Grand Market, and go to the northwest area, speak to the man sitting by the table. Now go to the Chapel, and speak to the woman with the pink hair.
+Client	Merchant Lizzie
+Reward	Pikkard Plush, 4 AP
+When you're finished all the Side Quest, continue with the main story by going to West Celdic Highway. Take the north exit, to get to Highway 2, then go all the way north to the end, to find Lunaria Nature Park, watch the event scene and then head to the park.
+
+Lunaira Nature Park"
+    </string>
+    <string name="chapter11111">
+"Is area is very straightforward, you just keep going north to reach to the next area. The path will often split into different paths, where you can sidetrack to obtain treasure chest. When you find the next Orbment Charing Station, you will face a boss battle when you head to the next area.
+
+Boss Fake Park Ranger times 4
+This boss fight, will be facing a bunch of grunt units. Each grunt unit attack from a distance, the good thing is all of these rangers are really fragile, you probably could take them out with a few attacks. If you manage to get hit them your area effect sills, you will end this battle real quickly.
+
+Boss Grunoja and Gordi Chief times 2
+
+As soon as the battle begins, Rean will unlock his S-Break ability. The boss has two grunt units with it, so take care of the two Gordi Chief first. The main boss is huge, but its also clumsy in it's movement, that it might end up wasting it's turn without doing anything. When the boss start attack, it can swipe with it's claws hitting multiple targets. Sometimes the boss will do Fist of Fury which deals massive damage to a single target. Alisa is actually very handy for this battle, with her Blessed Bow ability, you can easily heal your allies and boost your CP.
+Watch the event scene. The Chapter will end and will add up all the AP you have accumulated in this Chapter. If you manage to cleared this chapter without missing a single AP, you will get the S rank"
+    </string>
+    <string name="chapter2">
+        "May 22
+Listen to Instructor Neithardt's lecture, he'll ask Rean to answer a question. Answer it with the second choice "Orbal communication", this will raise your AP by 1. Go to the Library and speak to Emma. Then go to the Old Schoolhouse and speak to Fie, doing this will earn you 50 Link EXP between the two of them. There is also a new book added to the Library as well. You can also speak to Towa at the Student Council Room for a short scene. If you are after the character profile trophy, go to the gymnasium and speak to Casper. Now leave the school through the front gate. In the next event scene, reply with the second choice "The drawstring bag at his feet" this will raise your AP. You are now given the choice to hang out at the dorm, or stay at your room to end the day. Choose to hang out at the dorm if you want to speak to Class VII members.
+
+May 23 [Noon] [Free Day]
+Read the letters and see all the available side quest. You can also talk to Towa for a short scene and George to add a page to their character profile. There is also a new recipe you can get, go the bookstore and purchase the sandwich recipe.
+
+Note: The Recipe books are limited to their corresponding chapter, so you must purchase it now or else you will miss it.
+Now attend the Bonding Event you like best, you can get a character profile page updated for Crow if you attend his Bonding Event.
+
+Quest Name	Book Delivery
+Go to Keynes's Bookstore, speak to Keynes and accept his request. Deliver the books to the following people.
+Instructor Thomas - School Library
+Instructor Mary - School Main Building 2F, EC Room (Southeast area)
+Instructor Makarov - School Main Building Rooftop
+Vice Principal Heinrich - Main Building 1F, Faculty Lounge (Southeast area)
+Instructor Sara - Class VII Dorm, Sara's room
+Report to Keynes after delivering all the books.
+
+Client	Keynes
+Reward	Groundbait x3, 4 AP
+
+Quest Name	Substitute Tutor
+Head to the Lower Class Dorm and speak to Klein. Now go to the House just below south near the river location. Enter the house, speak to the lady and accept the request. Respond with the following choices.
+Roughly 50 years ago *2nd Choice
+Professor C.Epstein *1st Choice
+Weapons, like guns and artillery *3rd Choice
+You will get two extra AP if you respond by picking the choices listed above.
+
+Client	Klein
+Reward	2000 mira, Add Page 1 to Klein's Character Profile, 3 (+2) AP
+
+Quest Name	Old Schoolhouse Mystery [Required]
+Finish all your side activities first. Then go to the Old Schoolhouse, this will automatically advance the time of the day to evening. Select the four party members to bring with you. The game will only let you use four party member at once, with the 5th member as support, you can switch party members in battle by pressing R1, or through the menu before battle begins. Now go to the next room, the party will notice an elevator there. Use the elevator and explore the 2nd floor.Start the area by going to the southwest, get the treasure box which contains 150 sepith of each colour, then head downstairs through the south. Go on till you find a ladder, climb up the ladder, and you will find a Floral Bottle right behind the Clay Doll. Now go to the opposite side to find another ladder, climb up.and you will find a monster chest northeast from here. Now go south, there is a switch you can press that is right next to the treasure chest. Now go all the way to the southeast corner of the map, you will find a switch, press it, this will remove a wall near the starting area that lets you go to the exit.
+        "
+    </string>
+    <string name="chapter22">
+        "Boss Cherubic Gate time 3
+        Try to have your party member spread out for this fight, each of the boss can shoot lasers that will hit members close to each other.The laser also can cause confuse. Focus on defeating one boss at a time, try to use your S-Break to finish one of them off quickly, You can also use abilities such as Impassion or Alisa's Blessed Arrow to quickly build up CP to spam S-Breaks.
+Once you have defeated the boss, leave the Old Schoolhouse.
+
+Client	Principal Vandyck
+Reward	Heal, 5 AP
+
+May 23 [Evening] [Free Day]
+You can update Sara's character profile by speaking to her at the Pawn Shop, and Angelica at the Student Council Room. Now there is one hidden side quest you can do, simply go to the Art Room (Main Building 2F - Center East area) and speak to Linde to start the quest line.
+
+Quest Name	A Rose by Any Other Name [Hidden]
+Go to the Art Room (Main Building 2F - Center East) and speak to Linde. Accept the request, then leave the school by the front gate, Linde will come back with another request. Head to Trista, and speak to Jane, the owner of the Gardening Shop. Go back to the Art Room and talk to Linde.
+Client	Linde
+Reward	Cozy Socks, Cooling Belt, 4 AP, Add Page 1 to Linde &amp; Vivi's Character Profile, 4 AP
+Once you have finish all the side activities. Return to the dorm to end Free Day mode.
+
+Boss Combat Shell B
+his boss fight is really easy, however if you want to meet the bonus condition to get the extra AP, you might need to adjust your strategy. To get the extra AP, you need to cancel the boss's spell casting. To do this, wait until the boss is about to cast arts, during this time use Rean's Craft ability, Autumn Leaf Cutter. Doing this has the highest chance of canceling the boss' Arts. If you can't get Rean to act before the boss, try doing different commands to adjust your character turn delay, such as moving, arts, and attacking. Another method is to equip someone with the Impede Quartz and attacking the boss, (This only has a 30% success rate).
+You will fight ???? right after. This battle is unwinnable regardless on how strong you are.
+
+May 29 Field Study Day 1
+All of the other party members' Quartz will be removed as you begin. Make all the preparation you need. There is also a small event scene by speaking to the cat near the park. When you got everything you need, head to Trista Station at the south area of Trista. Speak to the Clerk by the counter and purchase the train tickets. Speak to your party members, you can also play the Blade Card mini game with them to raise Link EXP. Once you are done, select the stop talking option.
+
+Bareahard
+
+Watch the opening story sequence. Rufus will hand you over the Field Study assignment. Read all of the assignments. Leave the hotel. You can get some new recipes, go to the Noble District, and enter the Residence #2, and speak to Lorna at the First floor.kitchen Lorna will teach you the Savory Herb Tea recipe. There is also fishing location right at the Station Street section of town. You can also pick up the Carnelia books at Fortnum Books (Upstairs of Christie's Galleria). A item you should pick up is the Frog Strap Accessory from Henderson &amp; CO. General Goods which is inside Christie's Galleria. Keep these straps, you can exchange it for something good near the end of the game with it. Now go to near the entrance of Sorciere Restaurant, and speak to Hasan by the table. This will start one of the "Addicted to Bath Salts" quest. Now do the Field Study assignments.
+
+Quest Name	Put a Ring on it [Required]
+Head to Turner's Jewelers (Located at Artisans' Street) and speak to Bruc, listen to the request. Now leave town by heading the Station section of town, and leave through North Kreuzen Highway. You can find the quest item you need by examining the tree located on the center of the map. (If you are unsure, press select and look for the red exclamation icon on the map). Report back to Bruc."
+    </string>
+    <string name="chapter222">
+        "Quest Name	Aurochs Canyon Monster [Required]
+Leave town by going to Auroch Canyon Path (This is located a the Station Street Section of town). You can find the boss monster at center of Aurochs Canyon Path 2. Once you have encounter the monster, you need to have a Jusis and Machias in your party to start the battle.
+        "
+    </string>
+    <string name="chapter2222">
+        "Boss Fate Spinner
+        This boss is quite damaging with it's attacks, it can confuse on your party when it vomits at you. One of things that make this battle quite easy is that most of your party members have the ability to delay the boss's turn. If you take advantage of that, the boss will probably end up missing a few turns before it gets the chance to strike. A keynote about this fight, is somewhere near the middle, the Link between Machias and Jusis will severed, this will prevent link attacks between the two, you can swap them out with another party member if you prefer using Link Attacks.
+After this fight, Rean will be out of commission for the time being. Now go the east exit to Aurochs Canyon Path 3. You can also get the Pink Salt located in the southeast area for the Addicted to Bath Salts quest line. Now go to Auroch's Fort by heading to the northeast exit. Speak to the guards station at the gate. Before you head back to town, go to the Crescent Moon Inn, and speak to Fumy (NPC sitting by the table), you will receive "Red Moon Rose - Chapter 4".
+
+Client	Aurochs Fort
+Reward	Spark Arrow, 4 AP
+
+Quest Name	Addicted to Bath Salts
+Go to the Cental Plaza section of town.Speak to Hasan, he's the boy sitting near the Sorciere Restaurant. Leave town by going to Auroch Canyon Path. The quest item can be found at Aurochs Canyon Path 3. It can only be access after you have defeated the Fate Spinner from the "Aurochs Canyon Monster" quest. Once you have reach to Canyon Path 3, you can find the quest item located at the southeast area. Once you have collected the salt, you can turn in the quest by reporting Hasan.
+Client	Hasan Voltaire
+Reward	Silver Hourglass, 4 AP
+When you're back in town, make sure you turn in the "Addicted to Bath Salts" quest. Speak to any NPC that you need to, there is a short event scene if you interact with the kids near the entrance to North Kreuzen Highway. Head to the hotel to end today's Field Study.
+
+May 30 Field Study Day 2
+Jusis will leave your party as soon as you begin this day. Before you head out and do anything, you can get "Red Moon Rose - Chapter 5" by speaking to Anette located on Station Street near the North Kreuzen Highway entrance. You should also buy some Fresh Milk from the General Store, it used for an event scene later. There is also an hidden quest you can do. Simply go to Aurochs Fort and speak to Anton, the man right next to the entrance. Now finish the other Field Assignments.
+
+Quest Name	The Lost Traveler [Hidden]
+Go to Aurochs Fort, and speak to Anton the man right near the entrance. Accept the request. Now escort him back to Bareahard.
+Client	Traveler Anton
+Reward	Napping Mishy
+
+Quest Name	The Bite of Nostalgia
+Go inside Sorciere Restaurant located at the Central Plaza. Speak to Hammond, the chef by the counter. Accept the request. You will need gather two types of ingredients for him. When you have gathered the ingredients listed below, report back to Hammond.
+Globby Fat x5 - Common drop from monsters at North Kreuzen Highway.
+Healing Herb - Speak to Sister Tatiana at the Bareahard Cathedral (West Room)
+Client	Owner Hammond
+Reward	Deluxe Herb Chowder, Creamy Chowder Recipe, 4 AP
+
+Quest Name	North Kreuzen Highway Monster [Required]
+Finishing this quest will move the story forward, so finish all your side activities first. Go to North Kreuzen Highway, you will find the quest monster located at the very north end of the map. Once you have defeated the monster, go back to Bareahard.
+
+ Boss Venus Mantrap
+
+The boss is fairly weak by itself, however the boss is surrounded by six other Mantrap units, I would highly suggest using Fie's S-Break to get rid of them immediately. Then you can just take on the boss at your own pace.
+Client	Manager Richelieu
+Reward	Earth Bell, 4 AP
+Once you have control over Rean, you will need to find the Underground Waterway located at the Station Street section of Town. You need to take the stairs located southeast of the map, this will lead you the entrance to the Underground Waterway."
+    </string>
+    <string name="chapter22222">
+        "You will only have three party members with you, which can make this area a bit dangerous. Take advantage of the Orbal Charging Station right at the entrance if you need to heal up. Start by going all the way to the north area of the map, you will find a lever to will open the gate west of the starting entrance. Head over there to get to Underground Waterway 2, once you have reach to the center of the map, Jusis will join your party. Jusis can also now use his S-Break ability as well. You can go to the northeast area to pick up a treasure chest, there is an exit there that leads you outside which you will find Teara in a treasure chest. Return to Underground Waterway 2, and go the west area, you will find a very long ladder, climb all the way up to find a Monster Chest. There will be 8 Platinum Bugs inside, there is a trophy for killing 8 monsters at once, simply have all the monster position near each other and use Fie's S-Break to instantly wipe them. Climb back down and head to northwest to pick up a Celestial Balm from the treasure chest, and then go to the west exit to Underground Waterway 3. Start by the south area if you want to get a EP Charge II from a chest, now go to opposite to way to find two treasure chest and a switch that will remove the gate at the beginning. Head all the way to west end, you will find a ladder that will lead you to a treasure chest, and the southwest exit to leave the Underground Waterway. Find Machias by his cell and a boss battle will trigger.
+
+        Boss P.Army Soldier
+
+The Provincial Army Soldiers are just your average grunt type enemy. They do have a lot of HP however, with most of their attacks being single target, so you really don't need to worry about spreading your party members. The soldiers can do one powerful attack which could cause one of your allies to be fainted for a few turns. Just focus on defeating one at a time and then go for the other soldier. If you have your CP maxed, I suggest you save it for later.
+When you have defeated the Soldiers, escape from the Underground Waterway, another boss battle will ensue.
+
+Boss Kazakh Doven B and R
+
+This will be the final boss fight of this chapter. Focus on defeating one of the dogs first, I would suggest you go for Doven R (The one that is covered in Gold Plates) first. As Doven R has the ability to buff themselves. The boss can deal massive damage on a single target, so its recommended you buff yourself up with abilities such as Crest to raise your defense. If you save your S-Break from earlier, it would come pretty handy for this. Since the boss can deal massive damage on a single target, I would suggest you to keep your allies HP at 1400-1800 at all times.
+Watch the event scene. The Chapter will end and will add up all the AP you have accumulated in this Chapter."
+    </string>
+    <string name="chapter3">
+        "June 15
+Once you have control over Rean, you are given three Bonding Points to spend the day. You can get some new character profiles, first, go to the Art Room and speak to Clara, then there is Theresia at the library. If you have the Fresh Milk that you have purchased from Chapter 2, you can see an extra event scene by talking to the black cat on the second floor of the library. None of the shops are accessible at the moment, so the Fresh Milk must be purchased from Chapter 2. Now you need to raise Rean's knowledge in order for him to ace the exams. You can do this by speaking to the following NPC, and reading the books listed below.
+
+Instructor Thomas (Library 2F) : History
+"Political Economics: A Primer" (Library 2F Bookshelves) : Political Economics
+"Military Science: A Primer" (Gymnasium, Book on Bench) : Military Science
+Becky (Near Main Building Entrance) : Memorization Method
+Instructor Mary (Main Building 1F, Infirmary) : Art
+Instructor Makarov (Main Building 1F East Hallway) : Orbal Science
+"The Fanicer guide to Erebonian Opera and Painting" (Main Building 2F, Music Room Bookshelves) : Art
+Beryl (Main Building, Rooftop) : Orbal Science
+Linde (Student Union Building 1F) : Exam Material
+"Erebonian History in Pictures" (Bookshelves in Literature Club, Student Union Building) : History
+By doing this, you will get the maximum AP for the upcoming midterms. Even if you answer all the midterm questions right, without doing the steps above, you will only be rewarded with a fraction of the AP. Now attend the Bonding Events until you ran out of Bonding Points.
+
+When you have used up all your bonding points, Rean will automatically go home. Watch the event scene.
+
+Midterms Answers
+
+Q1: July 952 *2nd Choice
+Q2: Sketch *1st Choice
+Q3: Armored *4th Choice
+Q4: Allow arts usage without quartz *3rd Choice
+Q5: Imperial Public Transportation Act *3rd Choice
+Q6: B > D > A > C *2nd Choice
+
+June 20 Free Day [Noon]
+Read the letters and see all the available side quest. New books are also added in this chapter, you can purchase them from Keynes' bookstore, and there is one new book in the library. You can pick up a new recipe by going to the house on the south east area of Trista. When you are in the house, speak to Hanna to get the Berry Tart Recipe. You could also give some fresh milk to the black cat, she is located by the bench next to the lower class dorm. Now attend the Bonding Event of your choice and finish the side quests.
+
+Quest Name	The Secret Admirer
+Go meet Vincent hidden behind the storage building (Academy Field area). Accept Vincent's request, head to the Flower Shop and speak to the owner. Speak to the NPC listed below, then report back to Vincent.
+Rosine - Near Trista Chapel
+Beryl - Occult Research Club (Student Union Building 2F)
+Vivi - Garden next to the Gymnasium
+Client	Vincent
+Reward	Prismatic Cape, 4 AP
+
+Quest Name	Born to be Orbal [Required]
+Go to the Engineering Building and speak to George or Angelica, agreed to test out the Orbal Bike. Select the following choices.
+Release the clutch slowly/steadily *2nd Choice
+Pull in quickly, release slowly *2nd Choice
+Strongly at front, lightly at back *2nd Choice
+Client	George &amp; Angelica
+Reward	Dragon Vein, 3 (+2) AP
+
+Quest Name	Old Schoolhouse Mystery III [Required]
+Finish all your side activities first. Then go to the Old Schoolhouse, this will automatically advance the time of the day to evening. Select the five party members to bring with you. Use the elevator and explore the 3rd floor. As you begin exploring the 3rd floor, one of your party members will mention about new Link Attacks. From now you can use the Rush command during combat, simply press Triangle during Link Attack. Rush requires Bravery Points, which can be earned by using Link attacks in combat. Anyways, go the way to the south area, you will find a crystal switch, this switch will move the bridge depending on what colour it is. Press the switch to activate the blue colour bridge, cross north where the blue bridge is, you will find a treasure chest on the east. Get the chest and then take the bridge north (there is also a fishing spot right here as well) to go all the way to the northeast corner.You will find a crystal switch and a treasure chest. Hit the switch to activate the yellow bridge, then cross through the yellow bridge until you reach to the southeast area of the map, flip the switch here, to get blue bridges. Then use the bridge to go east to get to Area 2. Head northwest to find a Black Bangle in a treasure chest and then go all the way to the southwest corner to find a crystal switch, press to flip the bridges to blue. Then go north till you find a switch again, hit the switch, it will move the bridge to yellow, letting you access the northeast area of the map. There is a Monster Chest that contains a Master Quartz. Now go back and hit the switch to blue again, now go to the north area of the map, you can find a treasure at the northwest corner, and the exit at the northeast. Defeat the boss and leave the Old Schoolhouse.
+        "
+    </string>
+    <string name="chapter33">
+        "Boss Pit Demon time 3
+
+This boss is similar to the Cherubic Gate at the end Floor 2. It shoots a laser that can hit your allies if they are standing to close to each other. Just focus on defeating one of them first, a thing that you need to watch out for, is the when the boss uses Beckoning Wave, this can put your party members to sleep. Which means equipping sleep resistant accessories will come real handy for this fight.
+Client	Principal Vandyck
+Reward	Gladiator Headband, 5 AP
+
+June 20 Free Day [Evening]
+There is a hidden quest you can do, speak to Munk who is located behind the Main Building. You can get new character profiles, there is Hugo located at the Cafe. and Rex, who is in the Photography Club (Student Union Building), you need to speak to Rex and Fiedelio to get their profiles updated. The Black Cat can also be found at the school rooftop. You can give it some fresh milk.
+
+Speak to Munk who is located behind the Main Building. Accept the request, and help him by finding the stickers listed below.
+Tree near Storage Building (Academy Field)
+Container next to the Engineering Building
+Entrance of the Old Schoolhouse
+
+Client	Munk
+Reward	Blue Pendulum, 4 AP
+When you all your side activities, you need to make some preparations for the upcoming Practical Exam. You should purchase some battle scope (like 4) if you don't intend on using Eliot and also purchase Orbments with status effects, such as Impede or Seal, they will come in handy later. Once you are done making preparations head to the dorm to end Free Day mode.
+
+Practical Exam
+The exam results will be posted, the highest mark you can get is 7th place, if you meet those conditions, you will get a bonus 3 AP. Now watch the event scene, you will be forced to face Class I in the practical exam. Class I will refuse to let you use an all-female team or Jusis. You must arrange your party to have all male characters. In order to meet the bonus conditions for the bonus AP, you must not use a single art against Class I and you can't be K.O. as well.
+
+Boss Patrick and Noble students
+
+Your party setup will be Eliot, Machias, and Gaius. Eliot and Machias are the only characters with an ability to heal with their Crafts. While Gaius has the ability to seal them and inflict abnormal status on them. If you intend to complete the monster guide, you should have Eliot analyze them or use the Battle Scope item on all Class I members. Class I will often position themselves in a straight line, allowing you to hit them with Line AOE skills such as Rean's Arc Slash and Gaius' Gale Stinger. With Eliot's Resounding Beat, you should regen more then enough HP to survive each blow, if your HP drops even further, you can use Machias as a backup healer.
+
+June 26 Field Study Day 1
+Make you preparations before you head to the train station. You can also find the black cat at the train station. If you been giving it fresh milk, it should give you a Zeram Powder in return as well a short dialogue. When you are ready, go to the train station and purchase the tickets from the station employee. Speak to all party members and play Blade card with them to raise your Link EXP. When you are done, select the stop talking option. When you at the train stop, head north to the stairs and watch the event. Once all the event scenes are done, you are given a horse, controlling a horse is the same as on foot, now go all the way to the northeast exit to reach to the Nord Settlement.
+
+June 27 Field Study Day 2
+Gaius will get his S-Break ability. You can learn the Milk Porridge recipe by speaking to Sheeda (One of Gaius' sisters) at Gaius' home. Make your preparations and leave the Settlement to do your Field Assignments. The Nord Highlands is a vast area, you will need to use the Horse to travel quickly, if you encounter an enemy when you are on the horse, you can lock on the enemies and press X to trigger a battle, doing so can lead to a single advantage. If you want the double or triple advantage, you would need to dismount and attack the enemy from its back."
+    </string>
+    <string name="chapter333">
+        "Quest Name	Delivery to the Watchtower
+Go to the Trading Post, speak to the owner and accept the request. Kilte will hand you some Food Parcels. Leave the settlement and travel southeast to the Watch Tower. Immediately speak to Manning (The NPC on the left) he will give you "Red Moon Rose - Chapter 6". Now talk to Zats stationed by the watchtower entrance. Return to the settlement and report to Kilte.
+Client	Kilte
+Reward	Red Beast Flesh x10, White Beast Flesh x10, 4 AP
+
+Quest Name	Turning Over a New Leaf [Required]
+Go to the Doctor's House and speak to Dr. Amr. Accept the request and then head outside to Nord Highlands, you gotta find five Epona grass. Epona Grass are yellow colour type grass that you are highlighted with a red exclamation arrow on the map.
+Once you have gathered five grass, return to the Settlement and give the Grass to Amr.
+
+Client	Doctor Amr
+Reward	Scent, 4 AP
+
+Quest Name	Return to Zender [Required]
+Leave the settlement and travel all the way to the southwest end of the map to go to the Imperial Border. When you're inside, speak to General Zechs on the west side of the building. You are given the task to hunt a certain monster. But before you go looking for it, you should head to the Cafeteria side of Imperial Border and speak to Marx to get the Crispy Pizza recipe. You will find the monster located in the Nord Highlands - South. As you exit Zender Gate and look at the map, the monster will be marked northwest of your position.
+
+Boss Thunder Quaker and seven Thunder Loach
+This battle will start out with a lot of mobs. Take care of them fast, then the focus on the boss. Thunder Quaker will constantly use its Discharge attack. This ability can seal your characters and mute them, so using abilities such as Recuria or equip Mute and Seal resistant accessories will work wonders for this fight.
+Client	Lt. General Zechs
+Reward	Speed Breaker, 4 AP
+When you have finished the Field Assignments, return to Gaius' house for an event scene. The game will move to Evening, you will also be given new Field Assignments. Before you do your Field Assignments, there is a hidden quest located at the Imperial Border. Go there and speak to Sharl (The girl at the cafeteria) twice.
+
+Quest Name	Connecting Hearts [Hidden]
+Go to the Imperial Border (Zender Gate) and speak to Sharl at the cafeteria section. You might need to speak to her twice to trigger the request. Leave and go to the Nord Settlement. Speak to Thomas at the center near the well and then relay the information back to Sharl.
+Client	Sharl
+Reward	Special Pizza, 4 AP"
+    </string>
+    <string name="chapter3333">
+        "Quest Name	A Special Lesson
+Speak to Jedah who is behind the Worzel Home, accept the request and then select the following choices. Doing so will give you two extra AP.
+Around 8 hours *2nd Choice
+Around 800,000 people *3rd Choice
+Around 220 years ago *2nd Choice
+Any choice is fine.
+Client	Old Lady Jedah
+Reward	Yellow Pendulum, 3 (+ 2) AP
+
+Quest Name	Wandering Sheep
+Speak to Watari by the southeast area of the Nord Settlement. Accept the request and help him find five sheep. There are two located in Nord Highlands - South and three in Nord Highlands - North. Each sheep is marked with a green exclamation mark on the map. When you find the last sheep, you will fight a group of enemy type sheep, defeat them and Gaius will automatically bring you back to town.
+Client	Watari
+Reward	Fresh Milk x20, Mature Cheese x20, 4 AP
+Quest Name	Cameraman Caravan [Required]
+Go to the Elder's house and speak to the Elder to hear his request. You will need to find Norton who is located in the Northeast area of Nord Highlands - North. When you have found Norton, choose to wait for him to finish, doing so will also cause the story to advance, so make sure you have finish all the previous quest and other side activities first.
+Client	Elder Ivan
+Reward	Highland Cloth, 4 AP
+Watch the event scene, as you return to the Settlement. Leave town through Nord Highlands - North. Then travel to the northwest exit to Lake Lacrima. Go to the cabin, choose to knock on the door to end the day. Leave the cabin and go to the barn where Gaius is. Watch the event, Alisa will get her S-Break at the end of it.
+
+June 28 Field Study Day 3
+Watch the event scene, you are given your Field Study assignment, however, you can't access the north region yet, so you will have to do them later. Leave the town by going to Nord Highlands - South. Then head all the way southwest to Zender Gate. Afterwards, you will be at the Watch Tower, speak to all the guards and examine the rubble near the building. They are all highlighted with a red exclamation mark. Then respond with the following answers.
+
+3:00 AM *3rd Choice
+The weapon that was used *2nd Choice
+Responding with the choice listed above, will raised your AP by 1. Afterwards go directly south, all the way to the corner, an event scene will happen. Climb up the rope ladder, run all the way to end to find the Mortars. Make all preparations for your character, the will be a boss battle up head. Climb the ladder, and you will see an event, the party members will notice the sliver flying object, chase after it, it will be located on the northwest end where the stone pillars are. You need to reach it within 2 minutes, if you meet those conditions, you will get 1 bonus AP. Now go up ahead, watch the event and a boss battle will ensue.
+
+Boss Millium
+Millium attacks are really painful, they usually can hit multiple targets and can leave your characters in faint condition. However, she is kind of slow and won't have her turns for a while, which allows to easily delay her and with speed boosting abilities you can prevent her from having too many turns. Millium can also use the Ultimate Barrier skill which can allow her to nullify a single attack, this also allows her to counterattack you, if you decide to attack her with a close range character. So make you nullify the barrier with a character that hit from far.
+Now return to the Nord Settlement, when you have travel about halfway, the game will automatically take you there. You can now to access Nord Highlands - North, again. Speak to Gaius' father, Lacan and ask about the monster to do the Field Study Assignment. Now instead of going to Nord Highlands - North, leave town by going to Nord Highlands - South, go to Zender Gate, and speak to the soldier on top of the tank to receive "Red Moon Rose - Chapter 7" from him. Now return the North Highlands, and finish the field assignment by defeating the boss monster located on the southwest on the map, and continue with the main story by traveling to the quarry located on the northeast.
+
+Quest Name	Nord Highlands - North Monster
+Speak to Gaius' father, Lacan at the Nord Settlement. Select the second option to hear the description of the monster. Then the settlement, by heading to Nord Highlands - North. The monster is located at the southwest corner of town. When you have defeated the monster, go back to the settlement and report the situation to Lacan.
+
+Boss Stone Golem
+
+The Stone Golem is a very strong boss, it has really high physical defense along with high strength. Which can deal a massive amount of damage to your party. When the golem attacks, it will hit a small radius, so keep your party spread out. The golem does have one powerful attack that will hit your entire party. The best way to deal with this boss is to stack up on your CP, use abilities such as Impassion and Alisa's blessed arrow to raise the CP of your party and then use your S-Break.
+Client	Lacan
+Reward	Tearal Balm x5, EP Charge II, 4 AP"
+    </string>
+    <string name="chapter33333">
+        "Travel north all the way to the gate to see an event scene. Millium will become the leader of your party. The game will let know any character with a B-Rank on strike attacks can break objects. Press the X button to perform Millium's character action and use it repeatedly to break the gate. When you go inside, you will immediately fight a group of golems. These golems are weak against artes attack. Once you have defeated them, the game will let know that certain locations in the game have a stronger elemental efficacy. Inside these locations, even Time, Space and Mirage type elements are accounted for in battles, there are new types of turns bonus which can really change the outcome battle.
+
+     The Quarry is a very small dungeon, the path will split between north and south, the path to the south will take you outside with treasure chest. When you go to the north path, you will find an Orbment Charging Station. heal up and prepare for the upcoming fight. I would suggest equipping Poison and Seal resistant accessories for one of the bosses.
+
+Boss G and Jaeger Dropouts times 4
+
+This battle is quite straightforward. There are four Jaegars who act just like regular enemy grunts. They attack from range and can hit multiple targets. Focus on defeating them first and then on Gideon. Gideon also has the ability to impede your arts, so if you want to cast magic, it needs to be cast before his turn or else he would try to cancel it with his Fast Draw ability. Milllium and Gaius' S-Break will wonders for this battle as it has a large area radius.
+
+Boss Ginosha-Zanak and Zesvia
+
+This boss is actually really strong. It has attacks that can poison your characters, along with an area attack that can hit all party members. This can cause seal, which makes it a complete pain. However this has a very simple attack pattern, it has some minion spiders with it, if you defeated a spider, it will try to call more spiders in battle. Which caps out at four, so if there is no spider for the boss to summon, then it will use its attack if not then it keeps calling for more. If you happen to equip Poison and Seal resistant accessories it will be really useful for this battle.
+Watch the event and the chapter will end. The game will then add up the AP you have accumulated to determine your rank."
+    </string>
+    <string name="chapter4">
+        "Watch the opening scene. You will end up playing the swimming mini game.
+
+You need to press Triangle and O when the pink circle overlap, doing so will build Rean's speed and momentum. If you timed it wrong, your speed will decelerate. If you manage to win 1st place in this mini game, you will gain an additional 3 AP. If you lose, you can use the retry function until you win to get the Bonus AP. You will only miss the AP if you chose to give up.
+
+When you get control over Rean, you can get some new character profiles, first speak to Sharon at the Main Building Lobby and there is Kenneth at the Fishing Club (Student Union Building. There is also new books added to the library. You can also speak to some of your party members for some optional scenes.
+
+Eliot - Main Building 1F, East Hallway
+Fie - Main Building Rooftop
+Laura - Gymnasium
+Emma - Academy Field, behind storage building (Link EXP +50)
+After you're done, leave the Academy and select the second option to return to the dorm. Hang out at the dorm and speak to your party members for some extra dialogue. When you are done, go to your room and head to bed.
+
+July 18 Free Day [Noon]
+Read the letters and see all the available side quest. New books are also added in this chapter, you can purchase them from Keynes' bookstore. This includes a new food recipe. You can find Celine the black cat at the cafe. If you give her enough milk, she will give you an item in return. Speak to Towa at the student council to see a short event, this will add another page to her profile. You can speak to Edel at the Garden near the Courtyard to get a page to her profile. Now attend the Bonding Event of your choice and finish the side quests, when you finish two of the optional side quest, Instructor Neithardt will give you a call. Meet him at the faculty lounge (Main Building 1F southeast room) to start a hidden quest.
+
+Quest Name	Snapped
+Head to the Photography Club which is located at the Student Union Building. Speak to Fidelio and accept his request. Head to the locations listed below.
+Behind the Storage Building at the Academy Field.
+At the Old Schoolhouse.
+Inside the Auditorium (Southwest of the Map), and then speak to Rex upstairs.
+Client	Fidelio
+Reward	Green Pendulum, 4 AP
+Quest Name	Childhood Friend's Intention
+Go inside the Upper Class Dorm and speak to Bridget at the right side of the building. Accept the request, and go to the Gymnasium. Then head to the Fencing Club (the room on the east) and speak to the members there. Leave and go to the Academy Field and speak with Alan at the bottom of the field. You are then force into combat with the Combat Shells that are used on the practical exam. In order to get the Bonus AP, you need to have Alan alive and deal the finishing blow.
+
+Boss Combat Shell Y
+
+This is just like Combat Shells you have fought previously on your Practical Exam. Since you only have two party members, you need to be careful. You can use Alan who is more like a water down version of Jusis. Alan has no arts equipped and his CP skill are fairly weak. The Combat shell attacks mostly does about 1000 to 1500 damage, and the thunderstorm attack can cause seal on your party. Just focus on delaying the Combat Shell, until it has less then 400 to 900 HP and have Alan deliver the finishing blow.
+After that, speak to Bridget again at the Upper Class Dorm to receive the Water Bell Quartz and her page at the character profile notes.
+
+Client	Bridget
+Reward	Water Bell, Add Page 1 to Alan and Bridget Character Profile, 4 AP3 (+2) AP
+
+Quest Name	Swimming Lessons [Hidden]
+After you have finished the two quest listed above. Instructor Neithardt will give you a call. Speak to him at the faculty lounge (Main Building 1F southeast room) and pick the first choice. You will be swimming against your peers, it will be the same swimming mini game from the day before. Select the opponent you want to race against, doing so will increase the Link EXP by 100 between the two of you, if you win the match, you will get an additional 1 AP.
+Client	Instructor Neithardt
+Reward	Tearal Balm x5, 100 Link EXP (Opponent of choice), Add Page 1 to Instructor Neithardt's Character Profile, 4 (+1) AP
+
+Quest Name	Old Schoolhouse Mystery IV [Required]
+Finish all your side activities first. Then go to the Old Schoolhouse, this will automatically advance the time of the day to evening. Select the five party members you want to bring with you.
+Note: Laura and Fie will refuse to be in the same party."
+    </string>
+    <string name="chapter44">
+        "Use the elevator and explore the 4th floor. I would suggest you to bring Laura or Machias with you, because their Strike proficiency is rank B or higher which allows them to the break pillars to access certain areas. If you need to change your party, you can change the party setup by examining the entrance to the Old Schoolhouse. The 4th floor is much simplier then the 3rd floor, you can find the exit to the southeast corner, there is also a pillar on the southwest that you can break leading you to a treasure chest. When you're in the second area, go all the way east to find a treasure chest, and a switch on the pathway in between. Now take the path on the center and go south, it will split into two ways, you can go on the west to pick up a treasure, while the east path will lead you further below. There is the exit to the boss room and also a ladder here that will take you to a monster chest. Once you have defeated the boss, exit out of the schoolhouse.
+
+Boss Seraphic Gate times 3
+
+This is actually an exact carbon copy of the boss you fought in the second floor of the Old Schoolhouse, except these guys have a really high physical defense, making all your physical attack harmless against it. You will need to rely on arts to deal the best damage on them. Since the boss has nothing but Area type attacks, you will yourself in a pinch. If you have Eliot in your party, his buff ability works great for this fight. A good suggestion would be equipping your party members with Confuse resistant accessories, as the boss can easily cause confuse on your party members with it's laser attack.
+Client	Principal Vandyck
+Reward	Dragon Vision, 5 AP
+
+July 18 Free Day [Evening]
+When you have control over Rean, go speak to the Janitor near the Academy Field. Take his offer to return the paint brush, this will start a hidden quest line. Return the brush to Principal Vandyck at the Principal Office (Main Building 1F, Center East Room).
+
+Quest Name	A Brush with Destiny [Hidden]
+Speak to Mr. Gyler near the Incinerator by the entrance of the Academy Field. Accept his request, and then go to the Principal Office (Main Building 1F, Center East Room) and speak to Principal Vandyck.
+Client	Janitor Gyler
+Reward	Holy Sphere, Add Page 1 to Principal Vandyck's Character Profile , 4 AP
+
+After that you can get some new character profiles, speak to George at the Engineering Building and Friedel at the second floor of the Gymnasium. You can also find Celine (Black Cat) at the School Rooftop. Afterwards, attend the Bonding Events of your choice and return to the dorm. Afterwards you need get information on where Elise is. Go to the Gymnasium and speak with Laura, Fie at the Academy Field and Towa at the Student Council room. There is going to be boss battle ahead, I would suggest you equip Rean with a time element quarts such as Demonic Scythe, it will come in handy in the following battle. When you are ready, try to leave the school.
+
+Boss Ol-Gadia
+
+Rean will transform, boosting his stats tremulously for this fight. This boss is not really strong, but with only just Rean, the fight is going take a while. Once you have taken the boss's HP by 50%, the battle will end and Crow will join your party for the remainder of the fight. Use your Time element arts against this boss, it will do a ton of damage on it. Crow has time element arts already equipped, but if you have Rean equip with one from before, you will get two hard hitters against this boss, ending this battle real quick.
+Practical Exam
+
+You will start the Practical Exam immediately, select the party member of your choice. Since you're facing against Laura and Fie, you cannot have them in your party, I would recommend using Eliot as your partner due to his Craft abilities such as Resounding Beat.
+
+Boss Laura and Fie
+
+In order to meet the bonus conditions for the extra AP, you need to win this battle without using a single item and also use your S-Break at least once in this battle. Meeting this condition is actually not to hard. Focus on defeating Fie first, she can cause status ailment such as blindness and seal. Fie also can cancel your spell casting. Luckily the two them are extremely fragile, and using attacks such as Arc Slash can easily delay them. Just keep delaying them, and use your S-Break to finish them off. If you meet the bonus conditions, you will get 2 extra AP.
+July 24 Field Study Day 1
+Make your preparations, and then go look for Patrick near the Upper Class Dorm, speak to him to get a new page his profile. You can also find the black cat again by the bench at the park. When you are ready exit south to Trista Station. Purchase the ticket from the clerk and hop on the train. Talk to your party members and play the Blade card mini game to build your Link EXP with them. When you're done, choose the stop talking option.
+
+When you get off, you will be at Alto street, head to Eliot's House which is just past the cafe. Watch the event scene and then leave the house, head to Old Bracer Building which is located at the opposite end of Eliot's house. Read the Field Assignments. Then leave the guild house. Due to Heimdallr's size, the city is divided into several sections, to go to another section you must leave, ride the tram or use the Quick Travel option. There is also a new recipe you can pick up, go to the Vainquer Street and enter Plaza Bifrost and speak to the clerk working at Weston House to get the Tomato Gratin recipe. You can also get the Carnelia Reprints Chapter 6 to 8 from the bookstore at the opposite end. Then pick up the Puppy Strap accessory from Lepanto &amp; Co. General Goods (Which is upstairs), you can use it to exchange for something good during the end of the game. You can also find a fishing spot at Dreichels Plaza by the northeast corner.
+
+Quest Name	Amber Amour
+Head to the Alto Street District, then enter Concert Cafe and then speak to Heming by the counter. Accept the request, leave and then go to Eliot's house. Speak to Fiona. Leave the district and go to Vainqueur Street. Then go to Plaza Bifrost and speak to the lady by the counter. Leave and go to Ost District. Then go to Emmrod's Used Goods at southwest corner of the map. Then speak to Nadja by the counter. Return to the Concert Cafe (Alto District) and give the Record to Heming.
+Client	Old Man Heming
+Reward	Wobbly Pudding x5, 4 AP
+Quest Name	Hat's Off [Required]
+Go to Dreichels Plaza, and speak to Jasmine (she's on the stall by the southwest corner). Then go the Ost District and go to Gamee's Pub. Speak to the owner, then leave the pub. Go to the house directly to the west, it's marked as House 1 on the map. Speak to the Grasse by the kitchen. Leave and speak to Jim near the west exit.
+Client	Jasmine
+Reward	EP Charge II x3, Vanilla Gelato x4, Lemon Gelato, 4 AP
+Quest Name	Chronicles of the Chronicle [Required]
+Go to Vainqueur Street and enter the Imperial Chronicle Building near the north exit. Speak to the receptionist on the left. Visit each of the shops on Vainqueur street and speak to the clerk on the locations listed below. Once you are done, report to the receptionist at the Imperial Chronicle Building.
+Rinoie - Weston House (Inside Plaza Bifrost, west side of the building)
+Greg - Mimosa Cafe (Inside Plaza Bifrost, upstairs on the east side)
+Kaillis - Le Sage Bonutique
+Watson - Watson's Weapon &amp; Armor
+Lumiere - Lumiere Orbal Factory
+Client	Imperial Chronicle
+Reward	Intimidation, 4 AP
+Quest Name	Underground Passage Monster [Required]
+Go to the Gariner District section of the city. Then go to the hotel (Der Himmel) located south of the map. Speak to Ellington on the far left. Then leave the hotel for a short event. Return to the same hotel, and speak to Owner Noble on the left. Watch the event scene, and head to the door on the opposite direction of where the owner is. Unlock the door, now finish all your side activities and preparation before you head inside.
+        "
+    </string>
+    <string name="chapter444">
+        "This dungeon is really straight forward, just head straight, you will find a treasure chest containing Luminous Glasses on the southwest corner. Then continue forward you find the Grand Press Quarts through the ladder on the northwest area of the map. Then continue all the way to the east end, and you will find a lever, press it and it will remove the gate, which contains three treasure chest including one monster chest. After you have collected the treasure chest, go to the center, and head north to go the Underground Passage 2. Head all the way north to find a Curia Balm, and then continue directly east, sidetrack north to pick up a EP Charge III, and continue east to find a Orbment Charging Station, rest up and you will find the monster further ahead.
+
+        Boss Giant Drome and 6 Black Drome
+
+    This boss actually really easy compare to the mini boss from the Old School House. The Giant Drome, is surrounded by six Black Dromes, finish them off fast with your large area attack type skills, or even use your S-Break and then focus on the main boss. The Giant Drome is super slow, and you can easily delay it with your craft abilities. If does have a turn, it will usually use either a power art, which you can easily cancel with Rean, Fie, and Machias' craft ability. Other then that, the boss will use special oscillation which hits the entire screen, though you won't see it too often, if you keep delaying the boss.
+After defeating the boss, leave the dungeon, Eliot will notice music coming from the north. Examine the wall, it will open up a secret passage to the north. Keep going north, and sidetrack to the east to find a Teara Balm in a treasure chest, then continue further north, and climb the ladder on the northeast area to find Fortuna Quartz. Now continue on the path to the northwest, it will lead you to a Orbment Charging Station and the exit. When you exit, it will take you outside to Mater Park. Go all the west and speak to the Robert by the bench (NPC with his girlfriend). He will give you the "Red Moon Rose - Chapter 8" book. There is also a fishing spot around the northwest area here. Once you're all set, go speak to three student by the southwest area of the map.
+
+Client	Owner Noble
+Reward	Sepith Mass x500, 4 AP
+Watch the event scene, equip Fie and Laura with the best piece of gear you got. Once you are ready, leave and go to Mater Park. Then go near the exit to the Underground Passage. After the duel, you will use Laura and Fie to face against Rean and Machias.
+
+Boss Rean and Machias
+
+This battle can be tough or really easy. The most scariest thing about this battle is Rean, he will immediately use his craft ability such as Gale, which can Seal and cause all kinds of status defects. While Machias will act as a supporting unit and will heal Rean. If you are able to land one of Fie's Craft ability such as the Flash Grenade, you can pretty much win this battle with ease. You can easily infect Rean and Machias with abnormal status such as blind and seal. Just make sure you analyze them if you intend on completing the all enemy data trophy.
+
+July 25 Field Study Day 2
+As soon as you start the day, you will receive your field assignments. It is highly recommended you pick up the Made for Walkin' quest first and then work on the other requests.
+
+Quest Name	Made for Walkin'
+Head to Vainqueur Street and enter the clothing store "Le Sage". Speak to the Owner, Howard on the left side. Accept the request. The owner will make Laura equip a pair of Stregas. You need to move a total of 2000 steps, and then report back to Howard to finish the Quest. If you ever need to check how many steps you have taken, just use the Orbal Pedometer in your inventory to see the amount of steps taken.
+Client	Owner Howard
+Reward	Ladies' Stregas, 4 AP
+Quest Name	Oh No, Nono!
+Head to Ost District, and then enter House #2, it located on center east of the map. The speak to Old Man and accept the request. Leave the house and check the map, there should be three green exclamation marks on the map. One northeast, southwest and Southeast of the map. Once you have been to all three points, an event scene will occur, and you will see a large cat hopping over a gate. Follow that path to find the large cat and to finish the quest.
+Client	Old Man Keaton
+Reward	Kitty Strap, 4 AP
+Quest Name	Heimdallr Port Monster [Required]
+Go to Heimdallr Port and speak to the Port Chief at the center of the map. Then head to the Old Underground Passage by taking the north exit. As soon as you go in, Eliot will unlock his S-Break ability."
+    </string>
+    <string name="chapter4444">
+        "This dungeon is very straightforward, but its far larger then the previous waterway. Just keep heading north, the pathway will eventually go east, around here you can find a treasure chest by going south. Once you pick the treasure chests, hit the switch around the middle, and it will create a bridge for you to go further north. When you cross over the bridge, you can find a treasure chest to the west, the southeast corner and also by the northeast corner. To continue further head north until you find the exit by the northwest. This will take you to Waterway 2. From here keep going straight, you will eventually find a switch by the southeast corner of the map. Press the switch to lower the water, and walk down the stairs, you can find some treasure chest by going to the northeast corner. When you're done picking up the two chest, take the stairs around the northwest corner and continue on the path from there. The path will split along the way, which contains a treasure, but just keep going north to head to the 3rd section of the waterway. For the 3rd section, just keep going straight, eventually you can go the southeast corner to find a ladder that will lead you a chest containing the Leg Breaker. Now continue on to the northeast corner to a treasure chest. Then continue on to the upper west path, you will find a switch that will lower the bridge ahead of you. Cross over the bridge to find another switch, this will lower the water at the upper center area. Take the stairs below, and go to the corner on the northeast side, you will find a ladder that will bring to a monster chest containing the Master Quartz, Tauros. Head back down, and continue all the way north to find a Orbal Charging Station and the quest monster.
+
+        Boss Great Sharkodile and Sharkodile
+
+This boss can hit one target really hard and each attack will recover 50% of the damage it outputs. Use you area attack skills and and wipe out the extra Sharkodile. Then have all your party members focus on attacking the boss. Use Machias or Eliot to heal the party. The boss is pretty fragile against abnormal status, such as faint. You can use abilities to stun the boss to get extra turns over it.
+Now try to leave the dungeon. When you are at Waterway 2, an event will occur. Press the switch and a hidden passage is revealed to the east. You will find a treasure chest by the bottom corner of each area, once you pick up the chest, continue north and follow the path all the way to end. You can climb the ladder on the south to find a La Forte Quartz, and if you continue further you will see a charging station and the exit. Leave and watch event.
+
+Client	Port Chief Danberto
+Reward	U-Material x5, 4 AP
+Afterwards, Machias can use his S-Break ability, you will also receive one extra field study assignment. Go to Gamgee's Pub and speak to the owner, Gamgee. He will give you the Fried Fish recipe. You should also turn in the "Made for Walkin\'" quest, if you haven't done so. The owner will give you the same shoes, except that is also equippable on Fie.
+
+Quest Name	Burglary at the Jewelers [Required]
+Go to Garnier District and enter San Corries Jewelers which is located at the northwest corner of the map. Speak to the lady at the center. Then head to Dreichels Plaza and examine the statue. You will receive a Phantom Thief Card.
+
+Then go to Mater Park and go inside the Crystal Garden building. Then examine the bench to the upper right. You will get another card.
+
+Leave and head to Alto Street, then head to the Former Guild Branch. Go to the second floor and examine the table.
+
+Now go to Heimdallr Port and examine the containers by the northeast corner.
+
+Then examine the Tram by the exit. Then when you're inside, examine the briefcase in front of you
+
+ Client	San Corries Jewelers
+Reward	Sepith x500, 5 AP
+Leave the Jewelry store to see an event scene. Finish all the side activities you need to do and then examine the time table near the exit of Garnier District and select Sankt District. Doing so will cause the story to advance.
+
+July 26 Field Study Day 3
+When you have control over Rean, leave the Old Guild Building, now there is a hidden quest you can do. First go to Vainqueur Street and speak to Bond near the entrance to Plaza Bifrost. You can also get a new issue of the Imperial Chronicle from the bookstore. You should also purchase Battle Scope item from the general store, it will be useful for later. Now finish the Hidden Quest and then move on to the main story.
+
+Quest Name	In Case of Emergency [Hidden]
+Go to Vainqueur Street and speak to Bond, the man holding a briefcase near the entrance of Plaza Bifrost. Choose the first option to help him find his briefcase. Leave the area and go to Garnier District. Then speak to Jonathan, the man running the juice stall near the hotel. Leave and go to Alto Street, then head to the Concert Cafe. Then speak to old man by the table.
+Client	Bond
+Reward	Running Mishy, 4 AP
+Now to move on with the main story, you will have to visit the many locations of Heimdallr and make your inspection. They are usually marked with a red exclamation mark on the map. The spot of interest includes. *Do Not go to Mater Park yet.
+
+Crow - Plaza Bifrost, Mimosa Cafe (Vainqueur Street)
+Event at the north exit of Vainqueur Street (Fie will notice someone suspicious)
+Milton - Near the north exit of Alto Street
+Palace - Dreichels Plaza (North End)
+Danberto - Heimdallr Port
+Entrance to Underground Waterway 2 (Ost District)
+Hotel - Der Himmel - Garnier District
+Hotel - Der Himmel, use the Underground Passage way to reach to Mater Park. This will net you 2 AP that you would miss if you would commute to Mater Park.
+Partrick - Southeast area near entrance to Mater Park
+Leave the area and the time of the game will move to 12:00. Finish all preparations and side activities, when you are ready, examine the time table to go to Mater Park. When you have control over Rean, go and speak to Tim, he is located by by the southeast area (he's one of the kids in a group). He will give you a "Red Moon Rose - Chapter 9". Now speak to Towa and Angelica by the northwest corner to advance the story. After the event scene you will end up fighting two Great Sharkodile.
+
+Boss Great Sharkodile times 2
+This is the same as the previous fight, except there is two of them. Since they are so closed to each other, you can easily hit it with your Area skills. A good skill to use is Fie's Flash Grenade, this can easily blind the boss giving them poor accuracy. You could also try other things like equipping status inflict quartz like Seal.
+Once you defeated the boss, your party will head down to the Underground Passage."
+    </string>
+    <string name="chapter44444">
+        "This area is a completely straight one way dungeon. Just keep moving until you reach you see another event with Gideon. Pick up the treasure chest containing Celestial Balm Ex on your left and then when you about to reach to the next area, you will encounter a mini boss.
+
+        Boss Cursed Sculpture times 2
+
+This is just like the Mini Boss that you encounter at the Old Schoolhouse. Keep your party members spread out, these mini boss can do nasty damage to your party if they stick to each other. Once you have a good formation, focus on taking one unit out at a time. One thing as well, these mini boss, seem to have high evasion status, making you miss a lot of your physical attacks.
+Heal up using the Orbment Charging Station and then enter the next area, and you will encounter the main boss of this chapter.
+
+        Boss Zoro-Agruga
+
+This battle is actually quite easy. The Bone Dragon does a ton of damage that can hit a large radius. If it swipe you with it's claws, it can restore some of it's HP. However due to it's slow speed, you can dish out enough damage and at the same time recover yourself. Using Eliot's Resounding Beat and Rean's motivate will make this battle a cakewalk. If the boss decides to use arts, you got more then enough turns to cancel the arts with Rean or Fie.
+After that you will immediately face another boss. However the next boss fight is unwinnable, it automatically ends after 15 turns or so, just make sure you have someone that can analyze the boss (Eliot won't be with your party, so having a battle scope item or the Analyze quartz will help), if you intend on collecting the trophy for analyzing all enemies. Afterwards the chapter will end and will accumulate all the AP you have earned in this chapter."
+    </string>
+    <string name="chapter5">
+        "August 21
+During Instructor Thomas' lecture, answer the question with the first choice "Eisenritter". This will increased your AP by 1.
+
+When you can control Rean, leave the classroom, you will receive a phone call from Towa. Instead of seeing Towa, go and speak to the following Instructors. Mary at the EC room (Main Building 2F, Southeast corner) (Make sure you speak to her twice, to get her Profile updated), Beatrix in the Infirmary (Main Building 1F, ) and Makarov at the east hallway of the Main Building 1F. Speaking to the instructors will get you a medals based on how many character profiles you have updated, quest completed and the amount of unique enemies entries written on the notebook. If you are playing on New Game +, and carry your Notebook data over, you can get these medals right away. Now speak to Emily at the Academy Field, it will update her profile. You can find the black cat near the bench by the field entrance. A new book is also added to the library.
+
+If you have been fishing, you should have acquired a new rank by now. Go and speak to Kenneth at the fishing club, then purchase the Lakelord Star from him. You will need this fishing rod to get any fish from now. You can also catch any fish you have miss at Trista pond.
+
+Now head to the Student Council Room and pick up the Student Notebook from Towa.
+
+You will need to find Millium, select two party members to bring with you, at the end it will raise their Link EXP. Now check the following locations, the Academy Field, the Gymnasium 2F and the Engineering Building. After you have seen the event at the three places, go to the Main Building Rooftop. You will automatically return to Dorm, speak to your party members if you like. Head to bed to end the day.
+
+August 22 [Free Day]
+Read the student task, leave and do your side activities. You can get a new recipe by speaking to Ramsay at the kitchen of the Student Union Building. This will teach Rean the Custard Pudding recipe. You can find the black cat if you attend Emma's bonding event. There is also new books added to the Bookstore such as another issue of the Imperial Chronicles. Now before you decide other things, you can get some new profiles, speak to Stefan at the Chess Club (Student Union Building 2F), Loggins at the Gymnasium and Sariffa at the Upper Class Dormitory. When you have done that, attend the Bonding Event of your choice and then do the Student Task.
+
+
+Quest Name	Thors' 7 Mysteries
+Go to the Occult Research Club (Student Union Building 2F) and then speak to Beryl. Accept the request. Speak to Beryl again, and select every choice from the list to hear about the 7 Mysteries of the school. Then go around the school and speak to the people listed below. When you are done, report the situation to Beryl.
+Clara - Art Room (Main Building 2F, Center East Room) (The Crying Sculpture)
+Hibelle - Trista Chapel (The Haunted Piano)
+Instructor Thomas - Library (The Forbidden Tome)
+Paula - Barn in Academy Field (The Hidden Graves)
+Friedel - Fencing Club, Gymnasium (The Sports Clubs' Grudge)
+Kenneth - Pond near Gymnasium (The Crimson Devil of Lake Hell)
+Lotte - Entrance to the Upper Class Dorm (The Poltergeist)
+Client	Beryl
+Reward	Nightmare, Add Page 1 to Instructor Thomas' and Beryl's Character Profile , 4 AP
+Quest Name	Side by Sidecar [Required]
+Go to the Engineering Building, speak to Towa, Angelica or George. Accept the request and then select the following choices.
+Turn the handlebar right *1st Choice
+Slightly to the left *2nd Choice
+Brake earlier than usual *3rd Choice
+Client	George &amp; Angelica
+Reward	Volcanic Rain, 3 (+ 2) AP
+Quest Name	Swimming Lessons MK II [Hidden]
+After you have finished the two quest listed above. Instructor Sara will give you a call. Then go to the faculty lounge (Main Building 1F southeast room), speak to Sara and pick the first choice. You will be swimming against your peers, it will be the same swimming mini game from the day before. Select the opponent you want to race against, doing so will increase the Link EXP by 100 between the two of you, if you win the match, you will get an additional 1 AP.
+Client	Instructor Sara
+Reward	Zeram Capsule, 100 Link EXP (Opponent of choice), 4 (+1) AP
+Quest Name	Old Schoolhouse Mystery V [Required]
+After you have finished your side activities, head to the Old Schoolhouse. You are forced to bring Crow and Millium with you. Select the other three party members, then go use the elevator to bring yourself to the 5th floor. Start the area by going southeast, you will find a monster chest containing the Yggdrasil Quartz. Then as go further south, you can find fishing spot between the bridges. Now go cross through bridge on the west, and go all the way to the upper corner, you will find a crystal switch and a treasure chest. Flip the switch, this will activate the blue bridge, now go to the southeast area and cross through the blue bridge, use it to go upstairs, from here just follow the path until you have reach to the southeast exit. This will take you to the second area. In the second area, you will notice that there is two paths. You will need to find two switches to clear the wall to the next area. One switch is found by taking the southeast path, the switch is on the bottom center area. The other switch is found by taking north path, and on the southeast corner.When both switch are pressed, you can access the east center path at the starting point, this will take you to the boss.
+
+        "
+    </string>
+    <string name="chapter55">
+        "Boss Unsurtr
+        This boss is actually super strong compared to what you have previously fought. It is best to equip accessory that prevent freeze before you start this fight. This boss has very high strength, defense and speed. When it casts it's magic, it can instant cast, preventing you from canceling the boss's arts. During this moment you can get frozen, which makes it highly recommended to equip freeze resistant accessories. Due to how strong the boss is, it can easily K.O. one of your characters with two hits, the most effective way of dealing this boss is to rely on S-Craft for maximum damage or a mage user such as Eliot and Emma. Another method includes using attacks that can blind the boss, or faint, these status ailment work pretty effectively against the boss.
+Once you have defeated the boss, leave the Old Schoolhouse.
+
+Client	Principal Vandyck
+Reward	Silver Bell, 5 AP
+August 22 [Evening]
+You are given one additional Bonding Point as the day move to evening. Before you attend the Bonding Event, there is a new character profile you can get, simply go to the Music Room at the Main Building 2F (Southeast), and speak to Hibelle. A new hidden side quest is also available, go to the house just south below the pawn shop, when you are inside, speak to Hanna. Then go to the Trista Chapel and speak to the boy is sleeping, pick the first choice to finish the quest. You could also find the Black Cat at Kirsche's Cafe &amp; Inn second floor. Now attend the Bonding Event of your choice. Save your game and then return to the dorm to end free day mode. Watch the event scenes, and then read the Imperial Chronicles.
+
+Quest Name	The Sleeping Boy [Hidden]
+Go to the house just south below the pawn shop, when you are inside, speak to Hanna. Then go to the Trista Chapel and examine the boy that is sleeping, pick the first choice to finish the quest.
+Client	Rosine
+Reward	Premium Coffee, Royal Sable x5, Luxury Tart x5, Add Page 1 to Rosine's Character Profile, 4 AP
+
+Practical Exam
+You will start the Practical Exam immediately, with Crow and Millium in your party. You have to fight against the rest of Class VII, with the boys' team for the first battle and the girls' team for the second round. Each battle has a different condition for getting the bonus AP. The bonus condition for the first battle, requires you to evade an enemy attack followed with a counter attack, and your party members cannot be K.O. the best way to fulfill the condition is to have one of your party members equipped with Gaius' Master Quartz, Falco or equip someone with a Quartz containing the ability Shining. If you have those equipped, you can buff yourself with the Insight Status which boost your evasion rate by 50%. For the second battle, you simply just need to cancel an enemy art and have no one K.O.
+
+Boss Eliot, Machias, Jusis and Gaius
+        This battle is actually quite easy, but to fulfill the bonus conditions, you might need to play around, and stall your opponent for a bit. Such as filling the enemy data by analyzing them and waiting for a chance to evade an attack. Once you have met those conditions, you can easily inflict abnormal status such as Seal on them to prevent them from doing anything, or skills that cause delay such as Arc Slash or Crow's Rapid Volley. If you want to focus on a target, you should aim for Machias first, due to his ability to petrify you
+
+Boss Alisa, Laura, Emma and Fie
+
+o fulfill this battle's bonus conditions, simply cancel an enemy art. This battle is actually even easier then the previous battle. Use Rean delay Laura and Fie, and you can use Millium's Buster Arm to cause faint on them. When you have analyze all of them, take out Laura and Fie, and wait till Alisa or Emma try to cast Arts, and have Rean cancel it with his Autumn Leaf Cutter skill to get the bonus AP.
+August 28 Field Study Day 1
+As soon you take control over Rean, check your mailbox at the Dormitory, you will get an Abend Time Sticker. Now before you head to the train station, you can get a new profile updated, go to the Main Building 1F, near the infirmary entrance (Southeast area), speak to Instructor Beatrix or Vice Principal Heinrich. You can also find the black cat playing with Fie at the park, if you have been giving it enough Fresh Milk, Celine will give you a Zeram Powder. You can also trigger a short event scene if you speak to Crow at the Engineering Building. When you all done, pick up any extra supplies you might need and head to Trista Station. Purchase the train tickets from the clerk and aboard the train.
+
+Speak to your party members, and play the Blade Card mini game with them to raise your Link EXP. When you are done select the "Stop Talking" option.
+
+Legram
+
+When you can control Rean, leave the mansion and head to the Bracer Guild to pick up your Field Study assignments. You can also get a new Recipe, go to the Aprikoze Inn and speak to Seria twice by the center. You will get the "Refreshing Pasta Soup" recipe from her. You should also pick up the Carnelia Reprint - Chapter 9 from the Watteau's Store. There is also a short event if you examine the monument at the center of town and the statue of the Lance Maiden. If you go to the port near the statue, there is a fishing spot as well. Now work on the Field Study Assignments.
+
+Quest Name	Many Hands Make Light Work
+Go to Watteau's Store, and speak to Duncan who is behind the counter. Duncan will give you 14 replacement lights, then head to Ebel Highway and replace the 14 lamps shown on the map. They are highlighted with a green exclamation mark. You can also encounter the quest monster at Ebel Highway 2. When you have the replaced all the lights, report the situation to Duncan."
+    </string>
+
+    <string name="chapter555">
+        "Quest Name	Ebel Highway Monster [Required]
+The quest monster is located at the very north end of Ebel Highway 2. Defeat the Monster and report back to Toval at the Bracer Guild.
+
+        Boss Crocodark
+        This is a very easy boss, there is two Crocodark, they are very slow and can be easily delayed with your attacks. If the Crocodark does manage to land an attack on you, it will recover it's HP with the same amount as it's damage. If you have someone with high level Water Arts, such as Frost Edge or Crystal Flood, you can deal massive damage against the boss along with freeze.
+Client	Toval
+Reward	Sepith Mass x600, 4 AP
+Quest Name	Arseid School [Required]
+Head to the Arseid Training Hall, and speak to Klaus right at the training hall (Center area). Pick the second choice when you're ready. Watch the event and then select one other party members you want to bring with you. Win against Klaus to complete the request. After this battle, Laura will get an upgraded version of her S-Break.
+
+        Boss Butler Klaus
+
+Klaus is actually very strong, if you position your characters too close together, he will use his Sonic Wave attack, which can 1500 to 2000 damage to your party. Try to have your party members spread out. Since Klaus is pretty resistant against most abnormal status, the best thing against him is to use Status down type abilities, mostly delay. Also you will find the critical bonus appear a lot, try to use your S-Break and take advantage of critical moments.
+Client	Butler Klaus
+Reward	Qilin, Radiant Blade Waltz , 4 AP
+After you have finished the Field Study Assignments, head to House #1, it is located just opposite of the Bracer Guild. When you're inside the house, speak to Old Lady Daphne to receive "Red Moon Rose - Chapter 10". After you have received the book, go to the Bracer Guild to see an event. You will face an unwinnable battle, but just make sure you have Rean analyze the boss.
+
+August 29 Field Study Day 2
+Read the Field Study Assignments. Leave the Bracer Guild and then starting doing the assignments.
+
+Quest Name	An Offering to the Departed
+Go to the Legram Chapel. Go to the room to your left and speak to Sister Theramis, Then you will need to find three types of ingredients for her. Once you have collected the ingredients listed below, return the Chapel and give Sister Theramis the ingredients. Afterwards, examine the Lance Maiden Statue located southwest of town.
+Hearty Powder x5 - Dropped from Grass Pom (Ebel Highway)
+Clear Gelatin x5 - Dropped from Rose Shroom (Ebel Highway)
+White Seed - Josef (Arseid Mansion, Kitchen area on the west)
+Client	Sister Theramis
+Reward	Celestial Balm EX x3 ,4 AP
+Quest Name	Ebel Highway Monster 2 [Required]
+Head to Ebel Highway, you will notice with the fog all cleared up, there is a path open to the northwest on the map. Try going to that path, an event will occur, and the game will tell that Laura or Millium can break through the log. Letting you access the Northwest area. Around the first bridges you cross, there is a fishing spot you can use for later. Now keep to the end of this path, you will find the quest monster. After you have defeated the monster, head back to town to finish the quest."
+    </string>
+    <string name="chapter5555">
+        "Boss Phanlanx J9
+       A very easy boss, Phalanx has very low stats and can be easily Seal with Gale Stinger. Other characters such as Laura and Millium can deal very high damage to the boss due to their high Strike stats. If the boss does its, attack it will be an area missile attack that can cause the Burn stats on your characters.
+Client	Toval
+Reward	U-Material x7, 4 AP
+Quest Name	Charm of the Eisenritter [Hidden]
+Speak to Cindy who is located at furthest south end behind the Bracer Guild. Accept her request and then leave town and Head to Ebel Highway. Travel through the northwest section and when you reach to Ebel Highway 2, you will find the Luminous Grass near the starting area.
+
+Client	Cindy
+Reward	Fairy Brooch, 4 AP
+Quest Name	A Golden Catch
+Go inside the Aprikoze Inn, and speak to Weiber who is behind the counter. Accept his request and then leave town Head to Ebel Highway, and go through the Northwest section to where the bridge is. You will notice a girl fishing there, speak to the girl. Afterwards, you can use the fishing spot to catch the Gold Salmon.
+Client	Weiber
+Reward	Fresh Herb x10, Acerbic Tomato x10, Chitinous Shell x10, 4 AP
+After you have finished the Field Study assignments, head to Bracer Guild to end the day. During night time, watch the event scene, Chloe will come in with some bad news. Leave the Bracer Guild, and make your preparation. It is highly recommended to bring Nightmare resistant accessory for the upcoming area. When you are all ready, go down to the port area and speak to Gaveli, he has a boat prepare for you. Select the first choice to ride the boat. Then run all the way to end, when you reach to the castle, examine the gate and pick the first choice to go in."
+    </string>
+    <string name="chapter55555">
+        "Watch the event scene, you will immediately fight some Shadow Spirits. This dungeon has a lot of these mobs, they are mostly focus on causing abnormal status on you. When you have defeated them, Emma will unlock her S-Break ability. Now go up the stairs on the center, and take the west exit, take the long spiral of stairs, on the middle you will find a treasure that contained a EP Charge III, when you reach all the way to the bottom, you will see another event, and your party will pick up a Yellow Orb. Here you can find a treasure chest that has a Lunar Robe. Now run all the way back the lobby area. Then go the northeast exit, the Yellow Orb will remove the barrier. head inside to the Right wing, take the long spiral of stairs all the way up. You will also find two chest along the way. Near the end of the stairs, take the west exit, to go back to the Entrance Hall, there is monster chest here that contain a Master Quartz. Leave and head to the end of the stairs, you will find the exit to the external corridor, from just keep going straight, near the middle has treasure chest, when you go to the you will find an entrance to the upper area of the Left Wing. Just head down the stairs, you will a door that takes you to the Entrance Hall, which contains a treasure, return back to the left wing, and keep going down, you will find a ladder, that eventually leads you to a Red Orb. Now run all the way up, until the end, you will find a door sealed with a red barrier, the Red Orb will deactivate the barrier letting you go through. Go inside and you will fight a group of Shadow Spirits. After that, pick up the treasure chest to the south, it contains a Rakshasha quartz. Then now take the stairs and go all the way to the end. When you reach near the boss room, there is a Orbment Charging Station located there for you to heal up. It is highly recommended to equip Nightmare resistant accessories before you fight the upcoming battle. When you all prepared go inside and face the boss.
+
+        Boss Nosferatu
+
+        This boss is very similar to the end boss of Chapter 3, it will constantly summon Shadow Spirts to aid him in battle. If you defeat all of the spirits, it will focus on summoning more instead of attacking you. The boss has some really deadly moves, so it highly recommended to use large area type moves that can hit multiple targets. (Equipping Emma with Cross Crusade work wonders for this fight). The boss can also cause the Nightmare ailment to your party, so make sure you equip Nightmare resistant accessory on the most useful party member. The most annoying thing about this fight is when the Boss uses, Soul Pinon, it will put one of your party members out of commission and will slowly drain that person's health. Just keep focus on using your area type skills, and when the HP of the boss gets low, use your S-Break and finish it off.
+August 30 Field Study Day 3
+When you have control over Rean, return to Arseid Mansion, go upstairs and speak to Prana. Prana will give you a copy of "Red Moon Rose - Chapter 11". You can also speak to the girls near the Inn, they will give some food items to you. After that leave Legram by heading to the Train Station. When you reach to Garrelia Fortress, go and purchase a new Imperial Chronicle book from the Center Junction store (Located near the south exit). Then speak to the rest of your party members (They are all marked with a red exclamation mark on the map). Since Garrelia Fortress is pretty big, you can easily get lost trying to find your party members. Use the list below to find them easier.
+
+Sara:- Briefing Room (Center East Room)
+Emma - Guest Room (Center West Room)
+Fie &amp; Laura - Near south exit.
+Major Neithardt - Northwest area
+Eliot &amp; Alisa - Tank Garage (Motor Pool Section)
+Jusis, Gaius &amp; Millium - Outside (Exit out from Motor Pool Section)
+Machias &amp; Crow - Outside (Exit by going north at the Command Area)
+After you spoken to all of them, return to the fortress for another event and the day will end.
+
+Garrelia Fortress"
+    </string>
+    <string name="chapter555555">
+        "Watch the event scene, you will end up where the prologue begins. As soon as you can control Rean, the game will let you know about Burst attacks. By doing a Link Attack, you can use Link Burst by pressing the Square Button. This is similar to Link Rush, except it consume 5 Bravery points and have the entire party attacking. As for this area, if you are higher than level 49, then you are even stronger then you are at the prologue. Anyways, head straight north to the next area. You will fight a group of drones, since Instructor Sara is with you, she has really powerful Master Quartz that allows her to drain HP/EP per attack. Defeat the drones to continue on. You will notice the layout here is totally different then the prologue version, go east through the stairs and on the northeast room, you will find a treasure chest with Mind 3 inside. Now head out through the southeast exit to Storage Floor 1. Head downstairs and follow the path, there is two treasure chest along the way, eventually you will find the exit to the southwest area. This will lead you to the bottom area of Barracks. Now head to the room on the east to find a Flare Bomb in the treasure chest, and then go the west room. In here examine the notebook, you will learn the "Hashed Beef Rice" recipe. You can head out through the south exit if you want to see a short event, if you want to continue forward, head out through the northeast exit to the Relay area. Head down and you can find a treasure located on the room in the south end. When you near the exit, there is a Orbment Charging Station, Heal up and exit out to the Crossbell side of the fortress. You will fight two Zephyanthes, it the same end boss from the prologue. This mini boss can hit really hard with it's lasers and electric abilities, however you can customize your party a lot more making this fight even easier then the prologue. You can easily Seal the boss, so Gaius' Gale Stinger works pretty effective against this boss.
+
+After you defeated the boss, run back to the Orbment Charging Station and heal up, and then go back outside. Head all the way north, it will take you to the north section of the Relay Area. Go directly to the room on the north, you will find three treasure chests. Then head down southwest, you will find another chest, along with the exit to Storage Floor 2. Head to the northeast exit to Storage Floor 1, there is a monster chest right here. You will get a Hellfire Quartz, return to Storage Floor 2, and follow the path west, you will find two treasure chest in the rooms located on the west side of the area. When you reach near the bottom, you can find a monster chest to the southeast end, this contains the Domination Quartz, one of the best quartz you can use. Now take the Southwest exit. Go west to pick a Shield 3 from the treasure, and then go to the east exit, and follow the path all the way to the end, you will find an Orbment Charging Station, heal up and prepare for the upcoming boss of the chapter. As you go outside you will face a group of terrorist first, then along with main boss.
+
+        Boss S and R-Zephyanthes
+
+        Focus on defeating the Zephyanthes first, these drones can deal heavy damage to your party. If they use their Electric attack, you can end up fainted for a few turns. Try to use crafts with large radius against them or Arts that can cover a large area. As for Scarlet, she isn't all that strong, however she can inflict the burn status on your characters. Scarlet is also easily succumb to abnormal status such as Seal and Burn. You can use Sara's flash ability to Seal her or Gaius' Gale Stinger. You can easily inflict the burn status on Scarlet if Emma has Aster Flare at this point.
+Watch the event scene, afterwards the chapter will end and will accumulate all the AP you have earned in this chapter."
+    </string>
+    <string name="chapter6">
+        "September 18 &amp; 19
+When you have control over Rean, you will receive some additional school uniforms. You can get some new profiles updated. First leave the class room and speak to Colette on the west hallway of Main Building 2F and Vincent at the Main Building 1F (West Hallway). You can find new books at the school library and the black cat. After your done reading the books, go upstairs and give some fresh milk to the cat. Use the pond to catch any fish you have previously missed. You can also speak to Crow at the Engineering Building for a short event. When your done, head back to the dorm.
+
+        September 19
+
+Read the Student Council Assignment. Head out to Keynes' Bookstore to purchase the Stamina Steak recipe and a new issue of the Imperial Chronicles. There is ton of new character profiles between your classmates. However most of them requires you to attend their bonding events, which makes it impossible to completely fill the entire section of the Character Profiles until the next playthrough. Which ever character you attend the Bonding Event during this part is required to unlock the Bonding Trophy for the character, this trophy will be unlocked later in the game. Just keep a list of the the character you attended, and on the second playthrough attend the Bonding Events you didn't see for the first time. You can also get Paula's profile updated by speaking to her at the Academy Field. The Black Cat can also be found near the entrance of the Lower Class Dorm. Now attend the Bonding event of your choice and then finish student task.
+
+Quest Name	From Heart to Stomach
+Head to the Student Union Building and go to the Kitchen area. Speak to Mint and accept her request. You will need bring Mint, three different types of food. A soup, a main dish and a dessert. When you have those three types of food ready, speak to Mint and give it to her. Your reward is based on the quality of food you give her, the quality is calculated based on the amount of HP they recover. If you have superb dishes cooked from previously chapters, they are great choices for completing this request. If not, then you will have to wait till you assemble your party members and cooked the superb dishes at the Old Schoolhouse, and then immediately leave the schoolhouse and bring Mint the dishes. A good soup recipe you can use is the Jewel Potage bought from the cafeteria or cooked from the Creamy Chowder recipe.
+The reward is calculated based on the amount of HP recovered when the three types of food are added together.
+
+3500-5700 HP: Mint Special α, Monster Ingredient x3
+6000-7900 HP: Mint Special β, Monster Ingredient x5, Bonus AP+1
+8000 HP and Higher: Mint Special Ω, Monster Ingredient x10, Bonus AP+2
+Note: The Refreshing Pasta Soup is not categorize as a soup but is a Main Dish.
+
+Client	Mint
+Reward	Red Beast Flesh x3-10, White Beast Flesh x3-10, Chitnous Shell x3-10, Clear Gelatin x3-10, Globby Fat x3-10, Hearty Powder x3-10, Add Page 1 to Mint's Character Profile, 3 +( 1-2) AP
+Quest Name	A Personal Request [Required]
+Go to the Gymnasium and enter the Training Hall (Room on the east). Save your game and speak to Angelica. When your ready, accept her duel. If you win against her, you will get 2 Bonus AP.
+
+        Boss Angelica
+This is not exactly a hard fight, but you need to make sure Rean has at least over 7500 HP before you start this battle. Angelica can use her S-Break on you which can deal roughly around 6000 to 7400 Damage, which mean an instant game over. A good quartz to use for this fight would be the Earth Pulse ability, this lets you keep your HP regen allowing you to stay at maximum health. Once you have taken more then half of Angelica's HP, you can use your S-Break to finish her off.
+Client	Angelica
+Reward	Wrath, Add Page 1 to Angelica's Character Profile, 3 +(2) AP
+Quest Name	Old Schoolhouse Mystery VI [Required]
+After you have finished the side activities, go to the Old Schoolhouse. Use the elevator and go to the sixth floor. Its best to bring someone with a high strike ability such as Laura, Machias and Millium as they can break pillars allowing you get treasures that are normally blocked. As you start, go directly east, you will find a monster chest that is blocked by some pillars. The chest contained a master quartz. Now follow the northeast path, you will find a switch right behind the golem type monster. Press the switch, and then head south east to find a crystal switch. Touch it to flip the bridge to Blue, and use it to access the south area. Head downstairs, and you will see a switch right by the center of the map. Press it, and it will removed the wall to access the next section. Now go south all the way, to find another crystal switch, flip the bridge back to yellow and then return all the way to the entrance area, now go southeast, the path will lead to the next area. When you're in the next area, you can find a fishing spot near the stairs. Now go all the way to the south end, you will find a switch, press it to remove the wall near the bottom center. Now go all the way to east to find a EP Charge III in a chest. Then go to the northeast corner (break the pillars) to find a monster chest. Then go west, all the way to the northwest corner to find a switch. Press the switch and it will removed the wall to the east area, go there and you will find a chest at the northeast area, then go down to the southeast exit to get to the boss room. Heal up with Orbment charging station and then fight the boss. Once you have defeated boss, exit the Old Schoolhouse.
+        "
+    </string>
+    <string name="chapter66">
+        "Boss Elvaria times 2
+
+        This is actually very easy compare to the previous Schoolhouse bosses. The boss here has area type attacks, that does mild damage to your party, but they don`t have any unique abilities that make them really deadly. You can also easily blind the boss with skills such as Fie`s flash grenade. The only trouble with this fight, is the boss are really spread out, so you will have to focus one at at time, instead of trying to hit them all at once with an area attack.
+Client	Principal Vandyck
+Reward	Chaos, 5 AP
+September 19 Evening [Free Day]
+Attend the Millium's Bonding event, it will add a page to her character profile. You can also find the Black Cat at the second floor of Cafe. Now there is a hidden side quest you can do right now. Go to the Gymnasium and speak to Patrick. After you have finish all the side activities, head to the computer room (Main Building 2F, Northeast Room). This will end the Free Day Mode.
+
+Quest Name	Celestin's Secret [Hidden]
+Go to the Gymnasium and speak to Patrick at the Training Hall (East Room). Then select the first choice. Now go inside the Upper Class Dorm, and speak to Lotte by the counter. Then go to Class VII Dorm, and speak to Sharon by the kitchen (West area). Save your game, then go to Kirsche's Cafe &amp; Inn, and speak to Celestin by the counter. Play the mini game and pick the correct card as Celestin shuffles them. If you pick the correct card you will get an additional 2 AP. If you pick the wrong card, you can always reload your file and redo the mini game until you get it right. Then go back to the Gymnasium and speak to Patrick to finish the quest.
+Client	Patrick
+Reward	Add Page 1 to Celestin and Page 3 to Patrick's Character Profile, Still Blue, 3 +(2) AP
+For your practical exam, you will be facing against Instructor Sara, and to get Bonus AP, you must defeat her within 40 turns and have no one in critical status. If you want to cheese through this fight, bring two of your strongest party members (That has max CP) with you and immediately have the entire party S-Break on Sara.
+
+        Boss Sara
+        Sara can deal a lot of damage to your entire party members, but the good thing is, she doesn't have much HP. Each of Sara's attack can cause seal or other kinds of status defects. To meet the bonus conditions, is best to bring strong party members such as Laura and Millium, and use their S-Break as soon as you buff them. This way you can finish off Sara before she does anything devastating.
+September 25 Field Study Day 1
+When you can control Rean, exit out of the Class VII Dorm. Now you can watch some extra scenes, first speak to Towa at the Engineering Building. You can speak to Patrick by the Gymnasium entrance for a short scene. You can find the Black Cat by the bench near the entrance of the Academy Field. If you been giving her milk for the last few days, she will give you a Zeram Capsule. Now enter the Academy Field.
+
+When you're inside airship, speak to your party members. For short event scenes.
+
+Laura near Captain's seat - Bridge 5F
+Alisa and Sharon - Hold -1F
+Eliot, Crow and Jusis - Junction Area 3F
+In the Junction Area, go to the Front Deck by going to the north exit and speak to Prince Olivert. Then go back to the Junction Area, and go to the Rear Deck by leaving through the south exit. Speak to Instructor Sara and Toval. The return to the Junction Area, an event scene will automatically occur.
+
+Roer, the Industrial Metropolis
+
+Head near the Escalator that is directly to your west. Watch the event scene and you will be at the entrance of the RF Building. You can go back down the Escalator to hear Sharon being annoy at your actions (You can do it twice), but to continue on with the game just go inside the (Reinford) RF Corporate Building. Afterwards, read the Field Study assignments.
+
+You can get a new recipe from the Dining Bar (2F South end). When your inside the Dining Bar, speak to Almina twice by the counter to learn the Tomato Cocktail recipe. Then head to Boronia's General Goods and purchase the latest books such as the Carnelian Reprints, and you should also buy a Kitty Strap if you don't own one, they can be used to exchange for something good later. Now work on the Field Study assignments.
+
+Quest Name	Can You Hear Me Now?
+Go to the RF Store and speak to Chief Johann by the shelves. Accept the request , afterwards, you will receive a Orbal Wave Detector. You need to use the detector on locations with a signal strength of level 1. You can finish the quest after finding 3 locations, but to meet the bonus conditions you have to find all five locations. Use the detector on the location listed below. Then go back to the RF Store and report to Johann. Speak to Johann again, this will update Instructor Makarov's profile.
+Jackass' Repair Shop
+Roer Cathedral
+ ??? (Locked Door, Roer 2F, southeast area)
+Dining Bar "F" (Roer 2F, South)
+Roer Institute of Technology (Roer 2F, Southwest)
+Client	Chief Johann
+Reward	Ancient Glyph, Add page 1 to Instructor Makarov's Profile (Speak to Johann after completing quest), 4 (+2) AP
+Quest Name	Spina Byroad Monster
+Leave Roer by heading to Spina Byroad (West exit of town). There is a fishing spot near the monster chest. To find the quest monster, go to the west end of the map."
+    </string>
+    <string name="chapter666">
+        "Boss Rocky Croaker times 2
+
+        This mini boss has a ton of HP, making the fight very long. The good thing is, this boss is extremely easy, you can delay it to a point it never gets a turn. You can easily inflict confuse, faint or burn on the boss making the fight a complete push over. If the boss attacks, it will use Stone Breath, this has a chance of petrify one of your allies.
+After you have defeated the boss, head back to Roer and report to the Provincial Army (Guard located at Roer 2F, east end)
+
+Client	Norita Provincial Army
+Reward	Sepith Mass x700, 4 AP
+Quest Name	Mining a Minor Metal
+Go to the Roer Institute of Technology (Roer 2F, West End) and speak to Researcher Ratto at the back corner. Leave town by heading to Sachsen Mountains (Southwest Exit). Now travel north into the second area of Sachsen Mountains. In here there is a fishing spot located by the waterfall of the northeast end. Then go to the entrance of the mines by taking the north center exit. Then run all the way down and go inside the mines. The chief miner will then give you the Mine Shaft Key. Take the northeast exit to go to the Mine Shaft. Head down to the bottom center of the Mine Shaft, you will face a boss. Defeat it and you will a piece of Linium. Return to Roer and give the Linium to Researcher Ratto at the Roer Institute of Technology.
+Sachsen Mountain"
+    </string>
+    <string name="chapter6666">
+        "Boss Gold Fingus and 4 Turtle Bug
+
+        This boss is very fragile, with it's low HP, you can finish it off with your S-Breaks before it gets to do anything.
+Client	Researcher Ratto
+Reward	U-Material x10, 4 AP
+When you finished the Field Study Assignments, the game will automatically move to evening as you go outside. Try to go to the direction of the escalator, an event scene will occur. Then head downstairs by using the Elevator located southwest of the map. When you're inside the Reinford Residence, speak to your party members, starting with Sharon and Machias on the southeast room. Then speak to Crow and Eliot on the room to the west. Then go downstairs and knock on Alisa's room on the southeast area. After you have spoken to all your party members, you can play the Blade Card mini game with Alisa and Fie. Leave Alisa's room, and go back upstairs. Rean will notice Sharon, now go to the laundry room at the northeast end of downstairs and speak to Sharon. Exit out of laundry room, watch the short scene. You can now play Blade with Machia, Crow and Eliot. Now go upstairs and enter the room on the southwest. Exit out of the room to receive a phone call. Exit out by taking the elevator.
+
+Start moving, watch the event scene, Rean will notice something after the elevator comes down again. Go back to the elevator area, You will notice Fie. Then go near her to trigger an event scene.
+
+Doing this will get you two extra AP, and 50 Link EXP with Fie. Head downstairs through Escalator and then on the northeast corner, speak to Old Man Oulu, he will give you "Red Moon Rose - Chapter 12". Then there is a hidden quest you can do, go and speak to boy near the stairs by the RF Store.
+
+Quest Name	Midnight Hide-and-Seek [Hidden]
+Speak to Locomo, he is the boy located just west of the RF store
+
+        Now go back upstairs, and go to the area marked with ??? on the map. Examine the crate to finish the quest.
+
+        Client	Locomo
+Reward	U-Material x5, 4 AP
+Then head to the Dining Bar "F" located at the south end of Roer 2F. When you are inside, speak to Claire by the counter.
+
+September 26 Field Study Day 2
+Read the Field Study Assignments. You can also pick up a new issue of the Imperial Chronicle from the General Store. It is best you do the "Shots Fired" assignments first. You will get a free weapon and you can use it to work on the other field study assignments.
+
+Quest Name	Shots Fired
+Go to the Weapon Store, "RF Arms". and speak to Chief Sandy at the left side of the building. Accept the request, then select the tester of your choice. Sandy will give a weapon for the tester to use. The tester must land the finishing blow on 10 Dancing Owls (Found in Sachsen Mountain). After you have defeated the 10 Owls, report the status to Sandy.
+Client	Chief Sandy
+Reward	Tester's Weapon, Mechanic's Goggles, 4 AP
+
+Quest Name	Crying Over Lost Milk
+Go to the house marked as Residence 1 on the map, it is located at the southeast end of Roer 2F. Speak to Vanilla by the kitchen, accept the request. Then go near the Roer Institute of Technology (West of Roer 2F). You will find Milk hiding under a bench to your left. Take the escalator and go down, and go to entrance of Dvance's Diner (west end), and you will find Milk under the bench. Then go near the entrance of Roer Station (Center south), and examine Milk under the bench. When you're inside the train, examine Milk by the upper right corner.
+Client	Vanilla
+Reward	Melted Gratin x5, 4 AP
+Quest Name	Nortia Highway Monster [Required]
+Leave Roer by heading to Nortia Highway (South exit of town). Find the quest monster by going to the southwest corner of the map."
+    </string>
+    <string name="chapter66666">
+        "Boss Hydra times 3
+        Similar to the Rocky Croaker from Spina Byroad, this mini boss carries a lot of HP and there is three of them. Since they are spread quite far out, you probably won't able to use your area type skills to hit all of them. The good thing about this boss is that you can Seal them easily and also if Eliot has learned Nocturne Bell, he can put them to sleep. When the boss attacks, it will use Poison Breath, or will attack you, both attacks can cause poison on your characters. Equipping Poison resistant accessories will work pretty handy for this battle.
+After you have defeated the boss, head back to Roer and deal with the boss at the factory.
+
+        Boss Gespard G
+
+        This boss has a really high physical defense, but filled with tons of weakness. It has a high unbalance efficacy allowing you do link attacks really easily, if you intend to get the Link Attack trophies, this boss is a perfect target for it. If you position your characters in a straight line, it will try to cast it's arts at you, since the boss is very slow, you can easily cancel it's spell casting with an impede skill. If you intend on getting the arts canceling trophy, this is a good target for meeting your goals.
+Afterwards leave Roer and go to Sachsen Mountain, head to the Mines that is located at the north end. Go down to the mine entrance and watch the event scene. The game will take you back to Roer. Report to the Provincial Army (Guard located at Roer 2F, east end)
+
+Client	Norita Provincial Army
+Reward	Sepith Mass x800, 4 AP
+When you have control over Rean, head to Roer Institute of Technology (West end, Roer 2F), and speak to the receptionist, Fraga (North end), she will give you a copy of "Red Moon Rose - Chapter 13". Then go to Reinford Headquarters and speak to the receptionist. Take the elevator on the west end and go to floor 23. Afterwards, you will get an upgraded version of Alisa's S-Craft. Angelica will join your party and you will be at the Underground Passage.
+
+Underground Passage"
+    </string>
+    <string name="chapter666666">
+        "The Underground Passage is just a straight line, there is a treasure chest in the middle. Now running north until you reach Underground Passage 2. In this path there is three treasures which is located in between the paths. Just going north to reach to end, you will see a ladder, this will take you to Iron Mines - Shaft 3."
+    </string>
+    <string name="chapter6666666">
+        "You will start at the southeast corner of the map. This is the same area from the Field Study, now head out and go in a counterclockwise direction to get to the exit on the northwest corner. This takes you to the Delivery Area. Now head to the south end, and take the stairs, it will take you to a monster chest. Return back to the center, and head north, you can find a treasure at the northwest corner. Then to get to the northeast end, you will find an Orbment Charging Station, heal up and as you go further, you will fight a mini boss. Defeat them and go north. Watch the event scene and Crow will leave your party. Go to the west corner to find a Confuse Quartz in a treasure chest and then take the northeast exit to the Relay Area."
+    </string>
+    <string name="chapter66666666">
+        "Start by going to the Northwest end to find two treasure chest, and then return to the starting area. Continue on by going to the north east area, it will split into two ways, the east will contain a treasure and to the northwest is to go on further. Run all the way to the west dead end to find a treasure, then run back to the north center area, you will find a ladder to climb up. When your at the very top, go south to find a monster chest. Then go all the way to northeast corner, you will a ladder to a platform, get to the top and press the switch. It will lower the bridge to the west. Go there to find an Orbment Charging Station, and if you go to the dead end on the west, you will find a treasure chest. Now return to the Orbment Charging Station, heal up and make your preparations. For the upcoming boss, it is highly recommended to bring faint resistant accessories, Crescent Mirror and Adamantine Shield Quartz, they will come extremely hand for the the boss fight. Enter the boss room.
+
+        Boss Vulcan and 3 terroists
+        This is just like your regular boss fight, V isn't all that tough, he has a bunch of terrorist with him that are quite spread out preventing you from hitting them with your area skills. Just focus taking out the terrorist first and then focus on V. V can buff himself up to deal a ton of damage, when his HP drops below 50%, he will start using his S-Break which can do around 10000 to 11000 damage on a single target, which is an instant KO. Some status ailment that works pretty well against V such as blind. Just make sure you save most of your CP for the battle after this one.
+
+        Boss C, G_Zephyyanthes and NT-I
+        This is going to be the hardest battle in the game. But with the right preparations the battle can be easy. C usually will attack a single party member, or will summon mines (NT-1) and will detonate them when it gets to his turn. The explosion does about 1000 to 1500 damage per every mine exploded and causing faint as well. If you have faint resistant accessories it will come in real handy for this, as C is pretty fast and will probably have the chance to detonate those mines before you can destroy them. Then finally his two Machine sidekicks are the same as the mini boss from earlier, they can shoot lasers and cause faint with its electric discharge attack. If it cast arts, you can use Crescent Mirror to reflect it against C. Having Adamantine Shield is a must for this fight, C can use his S-Break when it's HP drop lower then 60%, Deadly Cross does enough damage to instantly KO any of your party members, so having this skill can nullify the damage. One of the most useful party member for this fight is Angelica, her craft, Zero Impact has a high chance of causing faint on C, with this you can keep C stuck on stunlock making this a lot less hassle to deal with.
+
+Watch the event scene until the chapter ends. Afterwards the game will add up the amount of AP you have earned for this chapter."
+    </string>
+    <string name="finalchapter">
+        "October 21
+You will Receive the Student Task assignments, read over them. There is actually a lot things you can do in the last chapter. You should go and purchase 10 Coarse Rock Salt from the General Store, this is for later in the festival. Now go inside the Main Building 1F, and speak to Principal Vandyck at the Principal Office (Center East Room), he will give you a reward if you have the medals from the other instructors. You are given the choice to pick which type of item you like, if you pick the first choice you get Thor Master Quartz, if you pick the second choice you get the Chevalier Master Quartz. Then speak to Colette at the west hallway. Colette is interested in collecting some accessories from you. Give the accessories to her, and she will give you a Zemurian Ore Shard, having three of these can let you convert them into a Zemurian Ore, a material required to forge the strongest weapon. If this is your second playthrough, you can get another Zemurian Ore Shard from the pawn shop at the price of 75 U-Materials.
+
+        Purchase the new books from Keynes' Bookstore. Read the new books from the Library. There is the Black Cat near the Lower Class Dorms. You can get a new recipe by speaking Casper at the Main Building 2F (West Hallway). Casper will teach you the Mixed Gelato recipe. If you have caught 19 different types of fish (You can still catch them at Trista Pond), you will see an event when you approach Kenneth at the river. After this scene, you can catch the last fish, doing so will give the Vermillion Master Quartz. After this you can purchase the Orochi Master Quartz from Kenneth. Then speak to George at the Engineering Club, this will update his profile. Now if you need to level up, cooking or anything not related to the main story, you can access the Old Schoolhouse right now without moving the time forward. Now work on the Student Task.
+
+        uest Name	Duly Noted [Hidden]
+Speak to Vice Principal Heinrich at the school courtyard. Then speak to Heinrich again, and then go to the Main Building Rooftop, and speak to the Student Council Member on the west. Go near the entrance of the Academy Field and speak to the Female Student near the wooden board. Then go to the entrance of the Old Schoolhouse and speak to the group of students there. Return the notebook to Heinrich at the Courtyard. This is a cameo from Ao no Kiseki (Trails of the Azure) a Trails game for Japan only.)
+Client	Vice Principal Heinrich
+Reward	Golden Bell, Add page 1 to Vice Principal Heinrich's Profile, 4 AP
+Quest Name	Mail Mix Up
+Go to the Main Building and speak to Bridget at the southwest corner. Select the first choice, then go all way to the Academy Field. Speak to Lambert by the stables. Go to Keynes' Bookstore and speak to Keynes. Then go to the Book Club (Student Union Building) and speak to Dorothee. Then go back to the Main Building and speak to Bridget at the southwest corner.
+Client	Year 1 Class II
+Reward	EP Charge III x3, 4 AP
+Quest Name	We Read the Comments
+Head to Radio Trista (Southwest Corner of Trista) and speak to Michael. Accept the request. Then speak to the people listed below. After your done doing that, go back to Radio Trista and report to Michael.
+Beryl - Occult Research Club (Student Union Building 2F)
+Ferris - Auditorium (Southwest of School Campus)
+Class V - Training Hall in Gymnasium
+Female Student, Munk - Lower Class Dorm (After you have spoken with Class V)
+Client	Radio Trista
+Reward	Celestial Balm x3, Curia Balm x3, 4 AP
+Quest Name	Slipped Their Minds [Required]
+Go to the Infirmary (Main Building 1F, Southeast) and speak to Instructor Beatrix. Then deliver the Permission Slip to the following students listed below. After that report back to Beatrix.
+Colette - Main Building 1F, West Hallway
+Millium - EC Room - Main Building 2F, Southeast Room
+Nicholas - General Store (After you have spoken with Millium)
+Becky and Hugo - Near the Entrance of the Main Building
+Client	Instructor Beatrix
+Reward	Acala Gem, 5 AP
+After you have completed the request leave the school to receive a phone call. Save your game, then go to the Engineering Building and Speak to George. Leave the Engineering Building, and examine the Orbal Bike, and then pick the first choice to leave. This part is very important depending on who you bring with you on your side car, you can unlock their final bonding event with this scene. This will also unlock the Hidden Bonding trophies of that character (The bonding event on Chapter 6 is also required as well). Keep a backup save file and redo this part if you need to get Bonding Trophy for later. If you chose to go alone, Crow with come with you. Afterwards, you can visit your party members at the dorm or go directly to bed.
+
+October 23
+Watch the introduction event, Towa will give you 6 festival tickets. You can use these tickets to attend with a friend to raise Link EXP. This is a way building LInk EXP for characters you never bother attending their Bonding Events. Go to the Library and examine the notebook on the table that is on the upper right, this will teach you the Filling Hotpot recipe. Finish the Student Task first. Because using the Festival Tickets will move the time of the day forward. One of the conditions to unlock the final bonding event is to spend two tickets on them.
+
+Quest Name	Academy Festival Patrol [Part 1]
+Go around the school and speak to the following people. Answer with the correct choices and help them out.
+Old Couple near the Auditorium = Gate of Avalon *3rd Choice
+Father and Daughter at the School Rooftop = Find the Mishy Doll at Main Building 2F, Northwest Area
+Client	Student Council
+You should attend the Gate of Avalon, by speaking to Monica at the west hallway of Main Building 2F, doing so with update Sharon's Profile for later. Use two tickets and the game will move to noon time.
+
+List of Festival Events	Location	Notes
+Mishy Panic	Gymnasium Training Hall	Additional Link EXP for Female Party members if points are over 180.
+Super Stallion	Academy Field	Super Stallion Shield prize item if reach target time.
+Stella Garden	Main Building 1F (Southwest)
+Eastern Teahouse	Main Building 1F (Center west)
+Gate of Avalon	Main Building 2F, West end	Add Sharon's Character Profile [Page 3]
+Relief Card if won against Sharon.
+During Noon time, you can visit the black cat at the Library. Then do the student task first, and then consume three more festival tickets to move to evening.
+
+Quest Name	Academy Festival Patrol [Part 2]
+Go around the school and speak to the following people. Answer with the correct choices and help them out.
+Becky - West side of the Front Entrance (Give her 10 Coarse Rock Salt)
+Note: Must be purchased or obtained before the festival, there is no shops you can access for the Salt right now.
+Mother and Son by the Academy Field Entrance, then go to Janitor room (Main Building 1F Northwest), and speak to Janitor Gyler.
+Client	Student Council
+Reward	Ground Sausage, Turkey Leg, Steak Skewer
+When the game moves to evening, go to Main Building 2F, and speak to Butler Celestin by the southeast corner. Celestin will give you "Red Moon Rose - Finale". Then speak to Nicolas at the EC Room (Southeast room), he will teach you the Handmade Hamburger recipe. You can then go to the Old Schoolhouse and cook whatever recipes you are missing. Just make sure you cooked all 20 unique dishes, and 20 peculiar dishes, you can exchange them for a quartz by speaking to Instructor Thomas and Lotte for later. You can also find Celine with Emma at the rooftop, if you been giving her fresh milk, she will give you a Zeram Capsule. Now finish the Student task. Then spend the last festival ticket and the festival will end.
+
+Quest Name	Academy Festival Patrol [Part 3]
+Speak to Vanilla at the entrance of the Old School Building. Then go to the Student Union Building and speak to Instructor Makarov. Then go to the Oldschool house for and speak to Vanilla and Makarov again.
+Client	Student Council
+Reward	4 +(5) AP
+Old Schoolhouse Final Area
+Watch the event scene, the game will take you to the final dungeon. Immediately exit out of the dungeon. Speak to Instructor Thomas, and give him all 20 types of peculiar dishes, he will give you a Youkai Gem in return. Then go to the Trista, and near the entrance of the school, speak to Lotte and give her all 20 types of Unique dishes, she will give you a Seraph Quartz. If you don't have these dishes, you can go back to Oldschool House and rearrange your party and cook the missing dishes. If you have cook every single recipe in the game (as in leaving no ??? in the notebook), go to the EC Room (Main Building 2F, Southeast) and speak to Margarita, she will give you the Magius Master Quartz. Go to the Lower Class Dorm, and speak to Beryl by the couch, give her all 14 volumes of the Red Moon Rose, she will hand you over a Zemurian Ore. Purchase the last weapon of the character you intend on getting the strongest weapon for, then go to the Engineering Building and speak to George. George can use the Zemurian Ore to make the strongest weapon in the game. Each playthrough will only gain you a total of three Zemurian Ores, one from collecting all the Red Moon Rose books, exchanging accessories from Colette in October 21 and one in the last dungeon. When you are ready, head to the last dungeon in the Old Schoolhouse.
+
+Realm of the Great Shadow"
+    </string>
+    <string name="finalchapter1">
+        "Head north, the path will be split into four directions, you can only access the northwest portal. Go there it will warp you into southeast section. Go southeast, you will find a switch that can be only activated by using Eliot or Emma's field attack (Press X), this switch will removed the barrier to the southwest. Go there to find a treasure containing Kaleido Boots (Best boots in the game). Then go northeast and pass the fire spirit type enemy lies another portal. Take the portal and it will teleport you the center north area. Around here, go east to find another switch, use Emma to activate it. Then go to the west side, there is a dragon type enemy, right there is an object glowing on the ground, that is a Zemurian Ore Shard, you can use that for forging the strongest weapon. Then take the portal just further ahead, it will teleport you to center west area. Go all the way south, to find a portal with a switch right next to it. Activate the switch and go to the portal. It will warp you back to the starting area. You will notice the barrier to east portal has been removed, now go to that portal and it will teleport you to the southwest area. Go all the way north to find two treasure chests and a switch. Activate the switch and return to the starting area, now access the portal at the northeast end, it will warp you to the center area. Go directly north to find two treasure chest and then enter the portal."
+    </string>
+    <string name="finalchapter2">
+        "In here the path will split into three ways, head west to find a Monster Chest, and then go to the east path to find a switch, activate it to remove the barrier at the center path. Go take the center path and head to the north exit, it will take you to the second section of the Realm."
+    </string>
+    <string name="finalchapter3">
+"In the second section, the switch require a different condition to activate. The switch on the right requires someone with a high Piercing proficiency (Alisa, Machias), use their field attack to activate it The switch on the left side requires someone with a high Thrust proficiency (Gaius, Fie) to activate it. Activating these switches will remove the barrier to the northwest and northeast portal. Take the northeast portal first. Now go north, until you see a golem type enemy, go pass it and find the switch at the east end just above the ladder. Activate the switch using someone with high Slash proficiency (Rean, Laura, Jusis). Then go all the way to the south end, you will find the barrier removed, and a monster chest just by the corner, and then climb up the ladder, to find a crystal, destroy it with someone that has high Piercing proficiency. Now go all the way north and pass the golem, then on follow the path until it goes to the northwest area. Go all the way to end, and the path will split into three ways, climb up the ladder to find a crystal switch. Destroy it with someone that has a high Slash stat. Then go back down and go southwest to find a switch that requires someone with a high Strike proficiency (Laura, Machias, Millium) , activate it to removed the barrier on the west. Go to that portal it will bring you back to the starting area of section 2. Now take the northwest portal. Follow the west path until you see the golem type enemy, there is another Zemurian Ore Shard here, take it and then take the ladder on the east. Grab the chest and run all the way to the end, you will find another crystal switch. Destroy the switch with a someone that has high Thrust proficiency. Go back down, and go to the northwest path, climb the ladder up, and you will find another crystal switch. Break it with someone that has a high Strike proficiency. This should be the last crystal switch you need to break, now go back to the starting area. You will find the path on the center is now unlocked. Go there you will find two treasure chest, and then enter the portal to go to the third section.    </string>
+"
+<string name="finalchapter4">
+    "The starting area of the third section is a straight road. Just keep going straight. Watch the event scene, and bridge will appear, then pick up the treasure chest near the portal. Then go to the portal, it will warp you into another section. Now here the path will be split into three ways, go to the west area, you will find another Zemurian Ore Shard on the ground near the behemoth like creature, you should have collected three pieces by now, allowing you to create a full ore to forge the best weapon. Now just a little further will be a monster chest that contain a Deus Gem. Now go northeast path to find a treasure chest with the Ares Armor. Afterwards, head to center path, until you see the bridge fix itself, then grab the chest on the right and head to the end to reach the portal."
+</string>
+    <string name="finalchapter5">
+        "Here the path will be split into three ways, just keep going north until the bridge fix itself, just a little bit pass there will be a switch, activate it with Emma or Eliot. This will remove the barrier at the west and east path at the starting point, in both path lies a treasure chest. When you pick up the two treasure chest, head back all the way north and enter the portal. This will take you to the boss room, heal up with the Orbment Charging Station and enter the next area to fight the boss. For the final boss fight, I would suggest equipping Sleep. Nightmare resistant accessories and the Shining or Adamantine Shield Quartz.
+
+        Boss Loa Erebomius and Ashen Fragment
+
+        This boss is very similar to the Nosferatu fight Lohengrin Castle. It has a bunch of minions that can shoot lasers and will cause your characters to sleep. When the main boss attacks, does massive amounts of damage, and can also cancel your arts. The boss has the ability take one of your party members away, and absorb life from the member is taken away, to release this party member from this state, you need to deal enough damage to the boss or have that person KO. Since the boss deal a ton of damage, you need watch for one of his AOE attacks, it can deal do about 6000 to 8000 damage on all your party members which can cause instant game over. A way of cheesing this boss is to use evasion tank strategy, which is to have a character with more then 50% evasion and cast Shining (insight on yourself), when this happens the boss almost always miss, including it's super attack. Because the boss has a ton of HP, a quick way of depleting it's HP is use something cause the Burn or the Freeze status, they have a chance of working, but if it lands, the boss will 5% of it's HP upon it's turn which can speed the process of this fight.
+After the event scene, the game will add up all of the AP you have earned. There is a total of a 441 AP that is earn throughout the game, if you manage to get to 430, you will get the Valedictorian trophy.
+
+        October 24
+When you can control Rean again, go and speak to Becky on her stall by the school front gate, this will update her character profile.
+
+        You can speak some of your friends to see some short events. If not, skip this part and read the section below. Patrick by the southeast corner of the school, Toval and Sara by the Engineering Building, Laura by the courtyard, Jusis in the Main Building 1F and Alisa at the east hallway, Eliot on Main Building 2F (Southeast), Thomas at the Art Room (Main Building 2F, East) and Fie or Millium at the School Rooftop.
+
+Visit George at the Old Schoolhouse. Speak to George and then leave the Old Schoolhouse. Now keep a backup save file for this part of the game, and then speak to Elise by the front gate. The game will prompt you to save, but don't save over this part. After this event you can select someone very close to dance with you, doing so with get the hidden Bonding trophies with that character. To unlock the dance event with that character you must fulfill one of the conditions listed below.
+
+        October 30
+Watch the event scene, when you control Rean, go to the Academy Field and speak to Lambert, this will update his profile. You should prepare everything you want to transfer for the next playthrough, such as selling things you don't need or spending all your money on things you want to bring on the next playthrough. Now visit Towa at the Student Council Room (Student Union Building), George at the Engineering Building and Millium at the Old School House 7th floor. Afterwards Millium will come with you, now leave Trista for another event scene. Then visit the Class VII dorms. Then visit Crow's Room (Room 206, upstairs). Return to the school area, and watch the event scene.
+
+When you can control Rean again, you should be at the school front gate, return the Main Building 2F and speak to Vivi or Linde on the west hallway. Doing so will update their profiles. Now go speak to George by the front gate, when you are all prepared, examine the gate and leave for the final battle.
+        Boss Drakken
+        This battle is very easy compare to the boss you just faced at the Old School house. Just treat the boss as a regular grunt with a ton of HP. This boss doesn't have any special attacks, it just uses basic attack that hits a radius of it's target. Just keep your character healed up and keep attacking it like a regular enemy and eventually it will go down. The boss is also immune to all status effects, so don't bother trying to inflict abnormal status.
+
+        Boss Spiegel
+        Make sure you scan the boss, and after two turns, the boss will use the Reactive Shield skill, making the boss completely invincible. The boss eventually will use an attack that will instantly wipe your party. After the event scene, you will be using the Ash Knight for mech combat, its like playing a game of rock-paper-scissors. You need to select a body part to hit and attacking the correct part will land a critical hit which allows you to do a Link attack, this is the only way to win this fight. The correct part to hit is based on the stance of the enemy,
+
+        Boss Azure Knight
+
+        This is similar to the previous battle, except the boss can do a link attack on you as well. To win this battle you must fully take advantage of link attacks, you will barely win this fight at the end due to how fragile your mech is. One of the biggest difference with this fight, is that you have a sword with you, with additional abilities, such as Morning Moon, a defensive stance that is used for countering. When the Azure Knight's HP drops below 25%, it will start using the defense stance. Which will evade your attacks, during this phase you can time it with the counter ability (Morning Moon) to deal the best damage to it without losing most of your health. Or do not attack it at all and wait till it changes stances.
+        "
     </string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_codex">CodexActivity</string>

@@ -21,17 +21,69 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
 
-                <TextView
-                    android:id="@+id/prologueTv"
+                <Button
+                    android:id="@+id/Prologue"
                     android:layout_width="match_parent"
+                    android:layout_marginTop="100px"
                     android:layout_height="wrap_content"
-                    android:text="@string/prologue" />
+                    android:background="@drawable/ripple_effect"
+                    android:text="Prologue" />
 
-                <ImageView
-                    android:id="@+id/imageView2"
+                <Button
+                    android:id="@+id/Chapter1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    app:srcCompat="@drawable/old_schoolhouse_ua1" />
+                    android:layout_marginTop="100px"
+                    android:background="@drawable/ripple_effect"
+                    android:text="Chapter 1" />
+
+                <Button
+                    android:id="@+id/Chapter2"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="100px"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ripple_effect"
+                    android:text="Chapter 2" />
+
+                <Button
+                    android:id="@+id/Chapter3"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="100px"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ripple_effect"
+                    android:text="Chapter 3" />
+
+                <Button
+                    android:id="@+id/Chapter4"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="100px"
+                    android:background="@drawable/ripple_effect"
+                    android:layout_height="wrap_content"
+                    android:text="Chapter 4" />
+
+                <Button
+                    android:id="@+id/Chapter5"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="100px"
+                    android:background="@drawable/ripple_effect"
+                    android:layout_height="wrap_content"
+                    android:text="Chapter 5" />
+
+                <Button
+                    android:id="@+id/Chapter6"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="100px"
+                    android:background="@drawable/ripple_effect"
+                    android:layout_height="wrap_content"
+                    android:text="Chapter 6" />
+
+                <Button
+                    android:id="@+id/FinalChapter"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="100px"
+                    android:background="@drawable/ripple_effect"
+                    android:layout_height="wrap_content"
+                    android:text="Final Chapter" />
             </LinearLayout>
         </ScrollView>
 

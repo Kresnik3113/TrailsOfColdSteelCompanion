@@ -18,7 +18,7 @@ public class PageController extends FragmentPagerAdapter {
         switch (position){
             case 0: return new EnemiesFragment();
             case 1: return new EquipmentFragment();
-            case 2: return new MaterialsFragment();
+            case 2: return new ItemsFragment();
             default: return null;
         }
 

@@ -12,6 +12,7 @@
         <activity android:name=".VideoActivity"></activity>
         <activity android:name=".CodexActivity" />
         <activity android:name=".WalkthroughActivity" />
+        <activity android:name=".Chapters"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

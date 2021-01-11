@@ -14,10 +14,10 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/prologueBossTv"
+            android:id="@+id/IgluteGarmr"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="All prologue boss fights"
+            android:text="Iglute Garmr "
             android:textSize="30sp" />
 
         <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
@@ -26,15 +26,15 @@
             android:layout_marginTop="50dp"
             app:autoPlay="false"
             app:showYouTubeButton="false"
-            app:videoId="I5M2lWYbfgI">
+            app:videoId="Tg0JoWPei6E">
 
         </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
 
         <TextView
-            android:id="@+id/chap1BossTv"
+            android:id="@+id/Grunoja"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="All chapter 1 boss fights"
+            android:text="Grunoja "
             android:textSize="30sp" />
 
         <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
@@ -43,15 +43,15 @@
             android:layout_marginTop="50dp"
             app:autoPlay="false"
             app:showYouTubeButton="false"
-            app:videoId="MLAkSP1AZ8I">
+            app:videoId="v7LW9pykI3g">
 
         </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
 
         <TextView
-            android:id="@+id/chap2BossTv"
+            android:id="@+id/KazakhDoven"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="All chapter 2 boss fights"
+            android:text="Kazakh Doven "
             android:textSize="30sp" />
 
         <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
@@ -60,9 +60,363 @@
             android:layout_marginTop="50dp"
             app:autoPlay="false"
             app:showYouTubeButton="false"
-            app:videoId="dJD3NKRIqZ4">
+            app:videoId="5bKxv10LNRs">
 
         </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/PatrickCo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Patrick and Co"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="qXoTjPeC7LY">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/MilliumOrion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Millium Orion"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="nJnJR39Q9wQ">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/GideonCo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gideon and Co"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="mxDOoUaxWX8">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/GinoshaZanak"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ginosha-Zanak"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="QMQtlN3HXGE">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/OlGadia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ol-Gadia"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="PM5wKsmkuno">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/LauraFie"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Laura and Fie"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="BfLs2b8y2Ec">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/ReanMachias"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rean and Machias"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="vDvKEmtymy8">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/GreatSharkodile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Iglute Garmr "
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="xlFgq2CHF_0">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/ZoroAgruga"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Zoro-Agruga"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="VxzQ0T75G0g">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+
+        <TextView
+            android:id="@+id/BoysGirlsTeams"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Boys and Girls Teams"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="up0Z0HlSCCk">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/ButlerKlaus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Butler Klaus"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="UFXGPtd3xN0">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/Nosferatu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nosferatu "
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="B4KXhj1IUeo">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/AngelicaRogner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Angelica Rogner"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="oqmnXwWExoo">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/SaraValestine"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SaraValestine"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="10l-jxjHR68">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/GespardG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gespard G"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="falcliHvro8">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/Vulcan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vulcan"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="4siwQsOjkqU">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="C"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="0Wt8Q75o0Rg">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/LoaErebonius"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Iglute Garmr "
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="3J8yti34S5o">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/Drakkhen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Drakkhen"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="4aXGd_QiZmU">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/MechBattleSpiegel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mech Battle: Spiegel"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="m-ZPBxJS_L4">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/FinalBoss"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Final Boss"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="yfFS3t01l8o">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+        <TextView
+            android:id="@+id/Scarlet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Scarlet"
+            android:textSize="30sp" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:autoPlay="false"
+            app:showYouTubeButton="false"
+            app:videoId="NoGUGJoeTfc">
+
+        </com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView>
+
     </LinearLayout>
 
     </ScrollView>

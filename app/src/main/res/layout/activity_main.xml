@@ -11,20 +11,21 @@
         android:id="@+id/walkBtn"
         android:layout_width="409dp"
         android:layout_height="81dp"
-        android:background="#B83E3E"
+
         android:text="Walkthrough"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        android:background="@drawable/ripple_effect"
         app:layout_constraintVertical_bias="0.24" />
 
     <Button
         android:id="@+id/codexBtn"
         android:layout_width="409dp"
         android:layout_height="81dp"
-        android:background="#B83E3E"
+        android:background="@drawable/ripple_effect"
         android:text="Codex"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -37,7 +38,7 @@
         android:id="@+id/bossBtn"
         android:layout_width="409dp"
         android:layout_height="81dp"
-        android:background="#B83E3E"
+        android:background="@drawable/ripple_effect"
         android:text="Boss Fight Videos"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
